@@ -86,3 +86,5 @@ Podrás subir tus archivos, y estos se guardarán y segmentarán para que puedas
 ## Generador de sinopsis
 
 Esta herramienta te ayudará a generar la sinopsis, algo que a veces nos cuesta hacer.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H0NFTIhxOpc?si=gpmCu2RCWErQ4-Vr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
