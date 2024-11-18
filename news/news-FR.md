@@ -1,3 +1,75 @@
+# 🌟 Grande Mise à Jour de StoryCanvas 🌟
+
+Cette nouvelle mise à jour est la plus importante de la plateforme jusqu'à présent.
+Nous avons modifié l'interface pour la rendre bien plus conviviale. Vous pouvez maintenant retrouver les vignettes qui vous mènent directement à la section que vous souhaitez. Vous pouvez également entrer en contact avec l'équipe de StoryCanvas pour demander de l'aide ou envoyer une suggestion.
+
+### 📚 Livres
+
+La nouvelle section de livres présente les livres créés de manière plus claire, avec des compteurs d'informations sur l'ensemble des livres.
+
+- **🌍 Édition des livres**  
+  L'interface de la section des livres a été remaniée. Vous pouvez désormais voir toutes les options de manière plus épurée. La section de téléchargement des livres permet de voir de façon explicite les chapitres pour effectuer le téléchargement.
+  
+  La correction des chapitres est maintenant placée dans une section plus visible pour être utilisée plus rapidement.
+
+  - **📑 Notes**  
+    Vous pouvez éditer les notes sans avoir à remplir un formulaire comme lors de leur création.
+
+  - **👨‍🎨 Personnages**  
+    Vous pouvez maintenant consulter les informations d'un personnage de manière plus épurée et y ajouter ou modifier sa photo. L'outil de génération de noms est directement intégré à la vue.
+
+  - **🏔️ Lieux**  
+    La vue des lieux a été améliorée et les images ajoutées aux lieux peuvent être visualisées en grand format.
+
+  - **🎄 Couvertures**  
+    La section des couvertures bénéficie d'une interface plus épurée où vous pouvez effectuer des modifications rapidement. L'outil de génération d'images par IA est maintenant plus visible pour une utilisation rapide.
+
+### 💡 Nouvelles Fonctionnalités Importantes pour l'Éditeur de Livres
+Trois nouveaux outils ont été ajoutés, que nous espérons très utiles pour la création de vos livres :
+
+- **🛠️ Tableaux**  
+  Créez des tableaux pour organiser vos tâches, suivre vos événements et vos choses à faire, et ainsi structurer votre travail de manière optimale.
+
+- **🏰 Cartes Mentales**  
+  Cette nouvelle fonctionnalité vous permet de structurer vos livres en créant des organigrammes pour vos personnages et plus encore. Profitez pleinement de cette fonctionnalité pour organiser vos idées.
+  
+  Vous pouvez également télécharger une image de votre carte mentale et la partager avec qui vous voulez.
+
+- **⏲️ Chronologies**  
+  Maintenez un ordre chronologique de votre histoire en créant des lignes du temps. Créez-en autant que vous voulez et suivez chaque événement clé pour mieux comprendre l'évolution de votre propre histoire.
+
+### 🌟 Générateur d'Images
+Cette section vous permet maintenant de choisir les styles que vous souhaitez pour la génération de vos images.
+
+### 🖼️ Éditeur d'Images
+L'éditeur d'images a été entièrement repensé et est maintenant bien plus puissant. Vous pouvez ajouter des filtres, rogner des images, ajouter des filigranes, télécharger votre image sous plusieurs formats et bien plus encore.
+
+### 📷 Générateur d'Images – Nouveau Design
+Le générateur d'images a reçu un tout nouveau design.
+
+### 💬 Traducteur – Nouveau Design
+La section du traducteur a été redessinée pour une meilleure expérience utilisateur.
+
+### 🌐 Prise en Charge de Plusieurs Langues
+StoryCanvas est maintenant disponible en 10 langues :
+
+- Anglais 🇺🇸
+- Français 🇫🇷
+- Allemand 🇩🇪
+- Italien 🇮🇹
+- Portugais 🇧🇷
+- Russe 🇷🇺
+- Chinois 🇨🇳
+- Coréen 🇰🇷
+- Japonais 🇯🇵
+- Thaïlandais 🇹🇭
+
+Nous espérons que vous profiterez de tous ces incroyables changements que StoryCanvas a apportés pour vous.
+
+Merci de votre soutien continu et bon créatif voyage ! 🌱📚
+
+
+---
 # Nouvelle Fonctionnalité WhatsApp et Mises à Jour Importantes
 
 Apportez StoryCanvas à votre WhatsApp !

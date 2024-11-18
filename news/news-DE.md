@@ -1,3 +1,69 @@
+# **Großes StoryCanvas-Update**
+
+Dieses neue Update ist das größte, das wir bisher auf der Plattform durchgeführt haben. Wir haben die Benutzeroberfläche komplett überarbeitet, damit sie noch benutzerfreundlicher wird. Jetzt kannst du Kacheln finden, die dich direkt zu den gewünschten Bereichen führen. Außerdem kannst du jetzt einfach mit dem StoryCanvas-Team in Kontakt treten, um Hilfe anzufordern oder Vorschläge einzureichen.
+
+**📚 Bücher**
+
+Der neue Bücherbereich präsentiert deine erstellten Bücher übersichtlicher und zeigt Zähler mit Informationen zu all deinen Werken an.
+
+- **Buchbearbeitung**
+  Die Benutzeroberfläche des Buchbereichs wurde neu gestaltet, sodass nun alle Optionen übersichtlicher dargestellt werden. Der Download-Bereich bietet eine klarere Übersicht über die Kapitel des Buchs, damit du den Download einfacher durchführen kannst.
+  
+  Die Korrektur der Kapitel befindet sich nun in einem besser sichtbaren Bereich, um schnelleren Zugriff zu ermöglichen.
+
+  - **Notizen**
+    Notizen können jetzt bearbeitet werden, ohne dass ein Formular wie bei der Erstellung ausgefüllt werden muss.
+
+  - **Charaktere**
+    Du kannst die Informationen zu deinen Charakteren jetzt übersichtlicher anzeigen lassen und auch das Bild des Charakters einfacher hinzufügen oder ändern. Das Tool zur Namensgenerierung ist direkt in der Ansicht verfügbar.
+
+  - **Orte**
+    Die Ortsansicht ist jetzt viel übersichtlicher, und hinzugefügte Bilder können in einer größeren Ansicht angezeigt werden.
+
+  - **Cover**
+    Cover können jetzt übersichtlicher bearbeitet werden, und die KI-gestützte Bildgenerierung ist einfacher zugänglich, um Änderungen schnell vorzunehmen.
+
+**🌟 Wichtige Updates im Buchbearbeitungsbereich**
+Wir haben drei neue Tools hinzugefügt, die dir bei der Erstellung deiner Bücher helfen sollen:
+
+- **🛠️ Aufgabenboard**
+  Mit diesem Tool kannst du Aufgaben erstellen, um deinen Fortschritt bei Ereignissen oder To-Dos nachzuverfolgen, was dir hilft, deine Arbeitsstruktur zu verbessern.
+
+- **🔗 Mindmaps**
+  Diese Funktion ermöglicht es dir, deine Buchstruktur besser zu organisieren. Du kannst Mindmaps erstellen, um Charaktere oder andere Elemente zu visualisieren. Nutze sie optimal aus!
+  
+  Du kannst dein Mindmap-Bild auch herunterladen und mit anderen teilen.
+
+- **🕐 Zeitachsen**
+  Behalte die zeitliche Abfolge deiner Geschichte im Blick, indem du detaillierte Zeitachsen erstellst. Du kannst so viele erstellen, wie du möchtest, und alle wichtigen Ereignisse im Auge behalten, um deine Geschichte besser zu verstehen.
+
+**🌟 KI-Bildgenerator**
+  Dieser Bereich erlaubt es dir jetzt, Stile auszuwählen, in denen deine Bilder generiert werden sollen.
+
+**🌟 Bildeditor**
+  Der Bildeditor wurde komplett neu gestaltet und ist nun wesentlich leistungsfähiger. Du kannst Filter hinzufügen, Bilder zuschneiden, Wasserzeichen einbauen, deine Bilder in verschiedenen Formaten herunterladen und viele weitere Optionen nutzen, um deine Bilder optimal zu bearbeiten.
+
+**🌟 Neuer Bildgenerator**
+  Der Bildgenerator hat ein neues Design erhalten.
+
+**🌟 Übersetzer**
+  Auch der Übersetzer hat ein neues Design bekommen.
+
+**🌐 Mehrsprachiger Support**
+StoryCanvas unterstützt jetzt 10 Sprachen:
+- Englisch 🇺🇸
+- Französisch 🇫🇷
+- Deutsch 🇩🇪
+- Italienisch 🇮🇹
+- Portugiesisch 🇧🇷
+- Russisch 🇷🇺
+- Chinesisch 🇨🇳
+- Koreanisch 🇰🇷
+- Japanisch 🇯🇵
+- Thailändisch 🇹🇭
+
+Wir hoffen, dass du all diese fantastischen Neuerungen genießen wirst, die StoryCanvas für dich bereithält!
+
 # Neue WhatsApp-Funktionalität und Wichtige Updates
 
 Bringe StoryCanvas zu deinem WhatsApp!
