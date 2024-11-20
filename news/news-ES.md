@@ -12,13 +12,10 @@ La sección de libros ha recibido un rediseño completo para ofrecerte una mejor
 
   - **Notas**
     Ahora puedes editar tus notas sin necesidad de rellenar un formulario complejo. Simplemente haz clic y edita, así de fácil.
-
   - **Personajes**
     La información de los personajes ahora se presenta de manera más limpia y organizada. Además, puedes agregar o cambiar la foto del personaje con facilidad. La herramienta de generación de nombres está integrada directamente en la vista de personajes, para que encuentres el nombre perfecto sin complicaciones. 👨‍💻
-
   - **Lugares**
     La vista de lugares también ha sido mejorada, con una interfaz más limpia y una opción de ver las imágenes en grande, para apreciar cada detalle de los escenarios que creas. 🌐
-
   - **Portadas**
     Ahora puedes realizar cambios en las portadas de manera mucho más rápida. La herramienta de generación de portadas con IA está más visible y accesible para que puedas usarla de inmediato. 🌟
 
