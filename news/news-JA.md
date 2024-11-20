@@ -31,13 +31,19 @@
 - **🛠️ ボード**  
   タスクを整理し、イベントややることを追跡し、作業の構造化を最適化するためにボードを作成します。
 
+  ![alt text](https://raw.githubusercontent.com/kimvex/storycanvas-blog-info/refs/heads/main/imgs/Imagen%20Board.webp.webp)
+
 - **🏰 マインドマップ**  
   この新機能を使用して、キャラクターやその他のアイデアのための組織図を作成することで、書籍の構造を整理できます。アイデアを整理するためにこの機能を最大限に活用してください。
 
   また、マインドマップの画像をダウンロードして、好きな人と共有することができます。
 
+  ![alt text](https://raw.githubusercontent.com/kimvex/storycanvas-blog-info/refs/heads/main/imgs/Mapa%20mental.webp.webp)
+
 - **⏲️ タイムライン**  
   物語の進行を順序立てて整理し、タイムラインを作成します。必要なだけ作成し、物語の進展を理解するための重要なイベントをすべて追跡します。
+
+  ![alt text](https://raw.githubusercontent.com/kimvex/storycanvas-blog-info/refs/heads/main/imgs/timeline.webp.webp)
 
 ### 🌟 画像ジェネレーター
 

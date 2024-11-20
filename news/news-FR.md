@@ -30,13 +30,19 @@ Trois nouveaux outils ont été ajoutés, que nous espérons très utiles pour l
 - **🛠️ Tableaux**  
   Créez des tableaux pour organiser vos tâches, suivre vos événements et vos choses à faire, et ainsi structurer votre travail de manière optimale.
 
+  ![alt text](https://raw.githubusercontent.com/kimvex/storycanvas-blog-info/refs/heads/main/imgs/Imagen%20Board.webp.webp)
+
 - **🏰 Cartes Mentales**  
   Cette nouvelle fonctionnalité vous permet de structurer vos livres en créant des organigrammes pour vos personnages et plus encore. Profitez pleinement de cette fonctionnalité pour organiser vos idées.
   
   Vous pouvez également télécharger une image de votre carte mentale et la partager avec qui vous voulez.
 
+  ![alt text](https://raw.githubusercontent.com/kimvex/storycanvas-blog-info/refs/heads/main/imgs/Mapa%20mental.webp.webp)
+
 - **⏲️ Chronologies**  
   Maintenez un ordre chronologique de votre histoire en créant des lignes du temps. Créez-en autant que vous voulez et suivez chaque événement clé pour mieux comprendre l'évolution de votre propre histoire.
+
+  ![alt text](https://raw.githubusercontent.com/kimvex/storycanvas-blog-info/refs/heads/main/imgs/timeline.webp.webp)
 
 ### 🌟 Générateur d'Images
 Cette section vous permet maintenant de choisir les styles que vous souhaitez pour la génération de vos images.

@@ -30,13 +30,19 @@ Três novas ferramentas foram adicionadas, que esperamos serem muito úteis na c
 - **🛠️ Quadros**  
   Crie quadros para organizar suas tarefas, acompanhar seus eventos e suas listas de afazeres, estruturando seu trabalho de maneira ótima.
 
+  ![alt text](https://raw.githubusercontent.com/kimvex/storycanvas-blog-info/refs/heads/main/imgs/Imagen%20Board.webp.webp)
+
 - **🏰 Mapas Mentais**  
   Esta nova funcionalidade permite estruturar seus livros criando organogramas para os personagens e muito mais. Aproveite ao máximo essa funcionalidade para organizar suas ideias.
   
   Você também pode baixar uma imagem do seu mapa mental e compartilhá-la com quem quiser.
 
-- **⏲️ Linhas do Tempo**  
+  ![alt text](https://raw.githubusercontent.com/kimvex/storycanvas-blog-info/refs/heads/main/imgs/Mapa%20mental.webp.webp)
+
+- **⏲️ Linhas do Tempo**
   Mantenha uma ordem cronológica da sua história criando linhas do tempo. Crie quantas quiser e acompanhe cada evento importante para entender melhor o desenvolvimento da sua própria história.
+
+  ![alt text](https://raw.githubusercontent.com/kimvex/storycanvas-blog-info/refs/heads/main/imgs/timeline.webp.webp)
 
 ### 🌟 Gerador de Imagens
 Esta seção agora permite que você escolha os estilos que deseja para a geração de suas imagens.

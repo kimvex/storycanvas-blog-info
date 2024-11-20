@@ -30,13 +30,19 @@ Tre nuovi strumenti sono stati aggiunti, che speriamo siano di grande aiuto per 
 - **🛠️ Bacheche**  
   Crea bacheche per organizzare le tue attività, seguire i tuoi eventi e le cose da fare, e strutturare il tuo lavoro in modo ottimale.
 
+  ![alt text](https://raw.githubusercontent.com/kimvex/storycanvas-blog-info/refs/heads/main/imgs/Imagen%20Board.webp.webp)
+
 - **🏰 Mappe Mentali**  
   Questa nuova funzionalità ti consente di strutturare i tuoi libri creando diagrammi per i tuoi personaggi e altro ancora. Sfrutta al massimo questa funzionalità per organizzare le tue idee.
   
   Puoi anche scaricare un'immagine della tua mappa mentale e condividerla con chiunque desideri.
 
+  ![alt text](https://raw.githubusercontent.com/kimvex/storycanvas-blog-info/refs/heads/main/imgs/Mapa%20mental.webp.webp)
+
 - **⏲️ Linee Temporali**  
   Mantieni un ordine cronologico della tua storia creando delle linee del tempo. Creane quante ne vuoi e segui ogni evento chiave per comprendere meglio l'evoluzione della tua storia.
+
+  ![alt text](https://raw.githubusercontent.com/kimvex/storycanvas-blog-info/refs/heads/main/imgs/timeline.webp.webp)
 
 ### 🌟 Generatore di Immagini
 Questa sezione ti consente ora di scegliere gli stili che desideri per la generazione delle tue immagini.

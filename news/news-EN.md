@@ -32,13 +32,19 @@ We've added three new tools that we hope will be very helpful when creating your
 - **Task Board** 📋
   This tool allows you to create tasks to track your progress, such as events or to-dos, helping you maintain a better work structure.
 
+  ![alt text](https://raw.githubusercontent.com/kimvex/storycanvas-blog-info/refs/heads/main/imgs/Imagen%20Board.webp.webp)
+
 - **Mind Maps** 🧠
   Mind maps allow you to organize the structure of your book. Create visual organizations for your characters, plot, or other elements. Make the most out of it!
 
   You can also download an image of your mind map and share it with whoever you like.
 
+  ![alt text](https://raw.githubusercontent.com/kimvex/storycanvas-blog-info/refs/heads/main/imgs/Mapa%20mental.webp.webp)
+
 - **Timelines** ⏳
   Keep track of how your story unfolds over time by creating detailed timelines. Create as many as you want to keep records of all important events that help you understand your story better.
+
+  ![alt text](https://raw.githubusercontent.com/kimvex/storycanvas-blog-info/refs/heads/main/imgs/timeline.webp.webp)
 
 **Image Generator** 🖼️
 

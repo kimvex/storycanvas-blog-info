@@ -29,13 +29,19 @@
 - **🛠️ 보드**  
   보드를 만들어 할 일, 이벤트 등을 관리하여 작업의 구조를 최적화하세요.
 
+  ![alt text](https://raw.githubusercontent.com/kimvex/storycanvas-blog-info/refs/heads/main/imgs/Imagen%20Board.webp.webp)
+
 - **🏰 마인드 맵**  
   이 새로운 기능을 사용해 책을 구조화하고 캐릭터나 기타 요소에 대한 조직도를 만들 수 있습니다. 이 기능을 최대한 활용해 아이디어를 정리하세요.
   
   또한 마인드 맵의 이미지를 다운로드하여 원하는 사람과 공유할 수 있습니다.
 
+  ![alt text](https://raw.githubusercontent.com/kimvex/storycanvas-blog-info/refs/heads/main/imgs/Mapa%20mental.webp.webp)
+
 - **⏲️ 타임라인**  
   이야기의 시간적 순서를 유지하며 타임라인을 만들어 보세요. 원하는 만큼 만들 수 있으며, 이야기의 중요한 이벤트들을 기록하여 이야기를 더욱 잘 이해할 수 있습니다.
+
+  ![alt text](https://raw.githubusercontent.com/kimvex/storycanvas-blog-info/refs/heads/main/imgs/timeline.webp.webp)
 
 ### 🌟 이미지 생성기
 이제 이 섹션에서는 이미지 생성에 사용할 스타일을 선택할 수 있습니다.

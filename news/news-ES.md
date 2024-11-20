@@ -25,11 +25,17 @@ La sección de libros ha recibido un rediseño completo para ofrecerte una mejor
 - **Tableros** 📋
   Esta herramienta te permite crear tareas y listas que te ayudarán a seguir el progreso de tu historia o cualquier actividad relacionada. Mantén una estructura clara y organizada para cumplir tus metas y gestionar todo lo relacionado con tu libro.
 
+  ![alt text](https://raw.githubusercontent.com/kimvex/storycanvas-blog-info/refs/heads/main/imgs/Imagen%20Board.webp.webp)
+
 - **Mapas Mentales** 🧠
   Crea mapas mentales interactivos para estructurar las ideas de tu historia, personajes o escenarios. Puedes descargarlos como imagen y compartirlos fácilmente. Esta herramienta visual te ayudará a entender mejor las relaciones y el desarrollo de tu historia.
 
+  ![alt text](https://raw.githubusercontent.com/kimvex/storycanvas-blog-info/refs/heads/main/imgs/Mapa%20mental.webp.webp)
+
 - **Líneas de Tiempo** 🕰️
   Manten el orden cronológico de tu historia creando líneas de tiempo detalladas. Crea tantas como necesites y registra todos esos eventos importantes para entender el desarrollo de tu trama de una forma organizada y precisa.
+
+  ![alt text](https://raw.githubusercontent.com/kimvex/storycanvas-blog-info/refs/heads/main/imgs/timeline.webp.webp)
 
 ### 🖼️ Generador de Imágenes
 Ahora puedes elegir diferentes estilos para generar tus imágenes con IA, haciendo que cada creación sea única y especial. ✨
