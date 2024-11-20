@@ -37,7 +37,7 @@ Tre nuovi strumenti sono stati aggiunti, che speriamo siano di grande aiuto per 
   
   Puoi anche scaricare un'immagine della tua mappa mentale e condividerla con chiunque desideri.
 
-  ![alt text](https://raw.githubusercontent.com/kimvex/storycanvas-blog-info/refs/heads/main/imgs/Mapa%20mental.webp.webp)
+  ![alt text](https://raw.githubusercontent.com/kimvex/storycanvas-blog-info/refs/heads/main/imgs/Imagen%20board.webp.webp)
 
 - **⏲️ Linee Temporali**  
   Mantieni un ordine cronologico della tua storia creando delle linee del tempo. Creane quante ne vuoi e segui ogni evento chiave per comprendere meglio l'evoluzione della tua storia.

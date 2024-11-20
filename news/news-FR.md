@@ -30,7 +30,7 @@ Trois nouveaux outils ont été ajoutés, que nous espérons très utiles pour l
 - **🛠️ Tableaux**  
   Créez des tableaux pour organiser vos tâches, suivre vos événements et vos choses à faire, et ainsi structurer votre travail de manière optimale.
 
-  ![alt text](https://raw.githubusercontent.com/kimvex/storycanvas-blog-info/refs/heads/main/imgs/Imagen%20Board.webp.webp)
+  ![alt text](https://raw.githubusercontent.com/kimvex/storycanvas-blog-info/refs/heads/main/imgs/Imagen%20board.webp.webp)
 
 - **🏰 Cartes Mentales**  
   Cette nouvelle fonctionnalité vous permet de structurer vos livres en créant des organigrammes pour vos personnages et plus encore. Profitez pleinement de cette fonctionnalité pour organiser vos idées.

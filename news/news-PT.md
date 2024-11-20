@@ -30,7 +30,7 @@ Três novas ferramentas foram adicionadas, que esperamos serem muito úteis na c
 - **🛠️ Quadros**  
   Crie quadros para organizar suas tarefas, acompanhar seus eventos e suas listas de afazeres, estruturando seu trabalho de maneira ótima.
 
-  ![alt text](https://raw.githubusercontent.com/kimvex/storycanvas-blog-info/refs/heads/main/imgs/Imagen%20Board.webp.webp)
+  ![alt text](https://raw.githubusercontent.com/kimvex/storycanvas-blog-info/refs/heads/main/imgs/Imagen%20board.webp.webp)
 
 - **🏰 Mapas Mentais**  
   Esta nova funcionalidade permite estruturar seus livros criando organogramas para os personagens e muito mais. Aproveite ao máximo essa funcionalidade para organizar suas ideias.

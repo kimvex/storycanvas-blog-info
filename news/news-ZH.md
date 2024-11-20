@@ -30,7 +30,7 @@
 - **🛠️ 看板**  
   创建看板来组织任务、跟踪事件和待办事项，从而以最佳方式构建您的工作流程。
 
-  ![alt text](https://raw.githubusercontent.com/kimvex/storycanvas-blog-info/refs/heads/main/imgs/Imagen%20Board.webp.webp)
+  ![alt text](https://raw.githubusercontent.com/kimvex/storycanvas-blog-info/refs/heads/main/imgs/Imagen%20board.webp.webp)
 
 - **🏰 思维导图**  
   这个新功能可以帮助您通过创建角色等的组织结构图来构建您的书籍。充分利用这个功能来组织您的想法。

@@ -29,13 +29,19 @@ Wir haben drei neue Tools hinzugefügt, die dir bei der Erstellung deiner Büche
 - **🛠️ Aufgabenboard**
   Mit diesem Tool kannst du Aufgaben erstellen, um deinen Fortschritt bei Ereignissen oder To-Dos nachzuverfolgen, was dir hilft, deine Arbeitsstruktur zu verbessern.
 
+  ![alt text](https://raw.githubusercontent.com/kimvex/storycanvas-blog-info/refs/heads/main/imgs/Imagen%20board.webp.webp)
+
 - **🔗 Mindmaps**
   Diese Funktion ermöglicht es dir, deine Buchstruktur besser zu organisieren. Du kannst Mindmaps erstellen, um Charaktere oder andere Elemente zu visualisieren. Nutze sie optimal aus!
   
   Du kannst dein Mindmap-Bild auch herunterladen und mit anderen teilen.
 
+  ![alt text](https://raw.githubusercontent.com/kimvex/storycanvas-blog-info/refs/heads/main/imgs/Mapa%20mental.webp.webp)
+
 - **🕐 Zeitachsen**
   Behalte die zeitliche Abfolge deiner Geschichte im Blick, indem du detaillierte Zeitachsen erstellst. Du kannst so viele erstellen, wie du möchtest, und alle wichtigen Ereignisse im Auge behalten, um deine Geschichte besser zu verstehen.
+
+  ![alt text](https://raw.githubusercontent.com/kimvex/storycanvas-blog-info/refs/heads/main/imgs/timeline.webp.webp)
 
 **🌟 KI-Bildgenerator**
   Dieser Bereich erlaubt es dir jetzt, Stile auszuwählen, in denen deine Bilder generiert werden sollen.
