@@ -1,3 +1,36 @@
+# 🚀 Nueva actualización en StoryCanvas: ¡Mejor experiencia de escritura estilo Notion! 🎉  
+
+Hemos mejorado las secciones de **Notas, Portadas, Personajes y Lugares**, añadiendo una experiencia de edición más dinámica e intuitiva. Ahora, cada párrafo cuenta con un **menú lateral** y una **barra de herramientas flotante**, lo que te permite transformar y dar formato a tu contenido de manera más flexible.  
+
+## ✨ Nuevas opciones de edición  
+
+### 🔹 Menú lateral en cada párrafo:  
+- **Texto normal**  
+- **Encabezados** (diferentes niveles)  
+- **Listas ordenadas y desordenadas**  
+- ✅ **Lista de verificación**  
+- ``` Código ```  
+- 📊 **Tablas**  
+- 🧮 **Fórmulas matemáticas**  
+
+### 🔹 Barra de herramientas flotante al seleccionar texto:  
+- 🔄 **Transformar tipo de texto** (encabezado, lista, texto normal, etc.)  
+- 🔗 **Agregar enlaces**  
+- **Negrita, cursiva, subrayado**  
+- 🎨 **Cambiar color del texto**  
+- `Código en línea`  
+- 🔖 **Marcador** (resaltado)  
+- 🔠 **Cambiar el caso del texto** (MAYÚSCULAS, minúsculas, Capitalizado...)  
+
+## 🎯 ¿Por qué este cambio?  
+Queremos que StoryCanvas no solo sea una herramienta poderosa para escribir novelas, sino también un **espacio flexible y organizado para desarrollar ideas, personajes y mundos**. Estas nuevas funciones te permitirán estructurar mejor la información y mejorar tu flujo de escritura.  
+
+## 🔜 Lo que viene  
+Seguimos trabajando en más mejoras para que StoryCanvas sea la mejor plataforma para escritores. ¡Mantente atento a futuras actualizaciones!  
+
+💬 **¿Qué te parece esta nueva versión?** Cuéntanos. Tu feedback nos ayuda a seguir mejorando. 🚀  
+
+
 # 🎉 Gran Actualización de StoryCanvas 🎉
 
 Esta es la actualización más grande que hemos realizado en la plataforma hasta la fecha. Nos hemos enfocado en hacer la experiencia más fluida y amigable, cambiando la interfaz para que puedas navegar con mayor facilidad. Ahora encontrarás mosaicos intuitivos que te llevarán directamente a la sección deseada, y podrás contactar fácilmente al equipo de StoryCanvas para solicitar ayuda o enviar sugerencias. ✉️

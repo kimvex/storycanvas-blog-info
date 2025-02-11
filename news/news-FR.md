@@ -1,3 +1,35 @@
+# 🚀 Nouvelle mise à jour de StoryCanvas : Expérience d’écriture améliorée comme Notion ! 🎉  
+
+Nous avons amélioré les sections **Notes, Couvertures, Personnages et Lieux**, en ajoutant une expérience d’édition plus dynamique et intuitive. Désormais, chaque paragraphe dispose d’un **menu latéral** et d’une **barre d’outils flottante**, permettant de transformer et formater votre contenu avec plus de flexibilité.  
+
+## ✨ Nouvelles options d’édition  
+
+### 🔹 Menu latéral pour chaque paragraphe :  
+- **Texte normal**  
+- **Titres** (différents niveaux)  
+- **Listes ordonnées et non ordonnées**  
+- ✅ **Liste de vérification**  
+- ``` Code ```  
+- 📊 **Tableaux**  
+- 🧮 **Formules mathématiques**  
+
+### 🔹 Barre d’outils flottante lors de la sélection de texte :  
+- 🔄 **Changer le type de texte** (titre, liste, texte normal, etc.)  
+- 🔗 **Ajouter des liens**  
+- **Gras, italique, souligné**  
+- 🎨 **Changer la couleur du texte**  
+- `Code en ligne`  
+- 🔖 **Surligner du texte**  
+- 🔠 **Modifier la casse du texte** (MAJUSCULES, minuscules, Capitalisé...)  
+
+## 🎯 Pourquoi ce changement ?  
+Nous voulons que StoryCanvas soit non seulement un outil puissant pour écrire des romans, mais aussi un **espace flexible et organisé pour développer des idées, des personnages et des mondes**. Ces nouvelles fonctionnalités vous aideront à mieux structurer vos informations et à améliorer votre flux d’écriture.  
+
+## 🔜 À venir  
+Nous continuons à améliorer StoryCanvas pour en faire la meilleure plateforme pour les écrivains. Restez à l’écoute pour les prochaines mises à jour !  
+
+💬 **Que pensez-vous de cette nouvelle version ?** Dites-le-nous. Vos retours nous aident à nous améliorer ! 🚀
+
 # 🌟 Grande Mise à Jour de StoryCanvas 🌟
 
 Cette nouvelle mise à jour est la plus importante de la plateforme jusqu'à présent.

@@ -1,3 +1,36 @@
+# 🚀 New Update in StoryCanvas: Improved Writing Experience Like Notion! 🎉  
+
+We have enhanced the **Notes, Covers, Characters, and Places** sections, introducing a more dynamic and intuitive editing experience. Now, each paragraph features a **side menu** and a **floating toolbar**, allowing you to transform and format your content more flexibly.  
+
+## ✨ New Editing Options  
+
+### 🔹 Side menu for each paragraph:  
+- **Normal text**  
+- **Headings** (different levels)  
+- **Ordered and unordered lists**  
+- ✅ **Checklist**  
+- ``` Code ```  
+- 📊 **Tables**  
+- 🧮 **Mathematical formulas**  
+
+### 🔹 Floating toolbar when selecting text:  
+- 🔄 **Change text type** (heading, list, normal text, etc.)  
+- 🔗 **Add links**  
+- **Bold, italic, underline**  
+- 🎨 **Change text color**  
+- `Inline code`  
+- 🔖 **Highlight text**  
+- 🔠 **Change text case** (UPPERCASE, lowercase, Capitalized...)  
+
+## 🎯 Why this change?  
+We want StoryCanvas to not only be a powerful tool for writing novels but also a **flexible and organized space for developing ideas, characters, and worlds**. These new features will help you structure information better and improve your writing workflow.  
+
+## 🔜 What's Next?  
+We're continuing to improve StoryCanvas to make it the best platform for writers. Stay tuned for future updates!  
+
+💬 **What do you think about this new version?** Let us know. Your feedback helps us improve! 🚀  
+
+
 # Major StoryCanvas Update! 🚀
 
 This is the biggest update the platform has ever received!

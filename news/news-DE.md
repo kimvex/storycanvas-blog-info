@@ -1,3 +1,36 @@
+# 🚀 Neues Update in StoryCanvas: Verbesserte Schreiberfahrung wie in Notion! 🎉  
+
+Wir haben die **Notizen-, Cover-, Charakter- und Orte**-Sektionen verbessert und eine dynamischere und intuitivere Bearbeitungserfahrung eingeführt. Jetzt verfügt jeder Absatz über ein **Seitenmenü** und eine **schwebende Werkzeugleiste**, mit der du dein Schreiben flexibler gestalten und formatieren kannst.  
+
+## ✨ Neue Bearbeitungsoptionen  
+
+### 🔹 Seitenmenü für jeden Absatz:  
+- **Normaler Text**  
+- **Überschriften** (verschiedene Ebenen)  
+- **Geordnete und ungeordnete Listen**  
+- ✅ **Checkliste**  
+- ``` Code ```  
+- 📊 **Tabellen**  
+- 🧮 **Mathematische Formeln**  
+
+### 🔹 Schwebende Werkzeugleiste beim Markieren von Text:  
+- 🔄 **Texttyp ändern** (Überschrift, Liste, normaler Text usw.)  
+- 🔗 **Links hinzufügen**  
+- **Fett, kursiv, unterstrichen**  
+- 🎨 **Textfarbe ändern**  
+- `Inline-Code`  
+- 🔖 **Text hervorheben**  
+- 🔠 **Textumwandlung** (GROSSBUCHSTABEN, kleinbuchstaben, Kapitalisiert...)  
+
+## 🎯 Warum diese Änderung?  
+Wir möchten, dass StoryCanvas nicht nur ein leistungsstarkes Tool zum Schreiben von Romanen ist, sondern auch ein **flexibler und organisierter Raum zur Entwicklung von Ideen, Charakteren und Welten**. Diese neuen Funktionen helfen dir, Informationen besser zu strukturieren und deinen Schreibprozess zu verbessern.  
+
+## 🔜 Was kommt als Nächstes?  
+Wir arbeiten weiterhin daran, StoryCanvas zur besten Plattform für Autoren zu machen. Bleib dran für zukünftige Updates!  
+
+💬 **Wie gefällt dir diese neue Version?** Teile uns dein Feedback. Dein Feedback hilft uns, besser zu werden! 🚀  
+
+
 # **Großes StoryCanvas-Update**
 
 Dieses neue Update ist das größte, das wir bisher auf der Plattform durchgeführt haben. Wir haben die Benutzeroberfläche komplett überarbeitet, damit sie noch benutzerfreundlicher wird. Jetzt kannst du Kacheln finden, die dich direkt zu den gewünschten Bereichen führen. Außerdem kannst du jetzt einfach mit dem StoryCanvas-Team in Kontakt treten, um Hilfe anzufordern oder Vorschläge einzureichen.
