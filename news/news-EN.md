@@ -22,6 +22,13 @@ We have enhanced the **Notes, Covers, Characters, and Places** sections, introdu
 - 🔖 **Highlight text**  
 - 🔠 **Change text case** (UPPERCASE, lowercase, Capitalized...)  
 
+![Notas](https://raw.githubusercontent.com/kimvex/storycanvas-blog-info/refs/heads/main/imgs/notas-more-options.webp)
+
+| | |
+|-----------|-----------|
+| ![Notas](https://raw.githubusercontent.com/kimvex/storycanvas-blog-info/refs/heads/main/imgs/notes-notion.webp) | ![Lugar](https://raw.githubusercontent.com/kimvex/storycanvas-blog-info/refs/heads/main/imgs/places-notion.webp) |
+| ![Personaje](https://raw.githubusercontent.com/kimvex/storycanvas-blog-info/refs/heads/main/imgs/character-notion.webp) | ![portada](https://raw.githubusercontent.com/kimvex/storycanvas-blog-info/refs/heads/main/imgs/cover-notion.webp) |
+
 ## 🎯 Why this change?  
 We want StoryCanvas to not only be a powerful tool for writing novels but also a **flexible and organized space for developing ideas, characters, and worlds**. These new features will help you structure information better and improve your writing workflow.  
 

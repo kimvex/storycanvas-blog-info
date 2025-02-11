@@ -22,6 +22,13 @@ Wir haben die **Notizen-, Cover-, Charakter- und Orte**-Sektionen verbessert und
 - 🔖 **Text hervorheben**  
 - 🔠 **Textumwandlung** (GROSSBUCHSTABEN, kleinbuchstaben, Kapitalisiert...)  
 
+![Notas](https://raw.githubusercontent.com/kimvex/storycanvas-blog-info/refs/heads/main/imgs/notas-more-options.webp)
+
+| | |
+|-----------|-----------|
+| ![Notas](https://raw.githubusercontent.com/kimvex/storycanvas-blog-info/refs/heads/main/imgs/notes-notion.webp) | ![Lugar](https://raw.githubusercontent.com/kimvex/storycanvas-blog-info/refs/heads/main/imgs/places-notion.webp) |
+| ![Personaje](https://raw.githubusercontent.com/kimvex/storycanvas-blog-info/refs/heads/main/imgs/character-notion.webp) | ![portada](https://raw.githubusercontent.com/kimvex/storycanvas-blog-info/refs/heads/main/imgs/cover-notion.webp) |
+
 ## 🎯 Warum diese Änderung?  
 Wir möchten, dass StoryCanvas nicht nur ein leistungsstarkes Tool zum Schreiben von Romanen ist, sondern auch ein **flexibler und organisierter Raum zur Entwicklung von Ideen, Charakteren und Welten**. Diese neuen Funktionen helfen dir, Informationen besser zu strukturieren und deinen Schreibprozess zu verbessern.  
 

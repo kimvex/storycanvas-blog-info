@@ -22,6 +22,13 @@ Melhoramos as seções de **Notas, Capas, Personagens e Lugares**, adicionando u
 - 🔖 **Destacar texto**  
 - 🔠 **Alterar capitalização** (MAIÚSCULAS, minúsculas, Capitalizado...)  
 
+![Notas](https://raw.githubusercontent.com/kimvex/storycanvas-blog-info/refs/heads/main/imgs/notas-more-options.webp)
+
+| | |
+|-----------|-----------|
+| ![Notas](https://raw.githubusercontent.com/kimvex/storycanvas-blog-info/refs/heads/main/imgs/notes-notion.webp) | ![Lugar](https://raw.githubusercontent.com/kimvex/storycanvas-blog-info/refs/heads/main/imgs/places-notion.webp) |
+| ![Personaje](https://raw.githubusercontent.com/kimvex/storycanvas-blog-info/refs/heads/main/imgs/character-notion.webp) | ![portada](https://raw.githubusercontent.com/kimvex/storycanvas-blog-info/refs/heads/main/imgs/cover-notion.webp) |
+
 ## 🎯 Por que essa mudança?  
 Queremos que o StoryCanvas seja mais do que uma ferramenta poderosa para escrever romances – ele deve ser um **espaço flexível e organizado para desenvolver ideias, personagens e mundos**. Essas novas funções ajudam a estruturar melhor as informações e aprimorar seu fluxo de escrita.  
 

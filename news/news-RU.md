@@ -22,6 +22,13 @@
 - 🔖 **Выделение текста**  
 - 🔠 **Изменение регистра** (ВЕРХНИЙ, нижний, Заглавный...)  
 
+![Notas](https://raw.githubusercontent.com/kimvex/storycanvas-blog-info/refs/heads/main/imgs/notas-more-options.webp)
+
+| | |
+|-----------|-----------|
+| ![Notas](https://raw.githubusercontent.com/kimvex/storycanvas-blog-info/refs/heads/main/imgs/notes-notion.webp) | ![Lugar](https://raw.githubusercontent.com/kimvex/storycanvas-blog-info/refs/heads/main/imgs/places-notion.webp) |
+| ![Personaje](https://raw.githubusercontent.com/kimvex/storycanvas-blog-info/refs/heads/main/imgs/character-notion.webp) | ![portada](https://raw.githubusercontent.com/kimvex/storycanvas-blog-info/refs/heads/main/imgs/cover-notion.webp) |
+
 ## 🎯 Зачем это изменение?  
 StoryCanvas — это не просто инструмент для написания романов, а **гибкое и удобное пространство для разработки идей, персонажей и миров**. Эти новые функции помогут вам лучше структурировать информацию и улучшить процесс написания.  
 

@@ -20,7 +20,14 @@
 - 🎨 **更改文本颜色**  
 - `内联代码`  
 - 🔖 **文本高亮**  
-- 🔠 **更改大小写** (大写、小写、首字母大写...)  
+- 🔠 **更改大小写** (大写、小写、首字母大写...)
+
+![Notas](https://raw.githubusercontent.com/kimvex/storycanvas-blog-info/refs/heads/main/imgs/notas-more-options.webp)
+
+| | |
+|-----------|-----------|
+| ![Notas](https://raw.githubusercontent.com/kimvex/storycanvas-blog-info/refs/heads/main/imgs/notes-notion.webp) | ![Lugar](https://raw.githubusercontent.com/kimvex/storycanvas-blog-info/refs/heads/main/imgs/places-notion.webp) |
+| ![Personaje](https://raw.githubusercontent.com/kimvex/storycanvas-blog-info/refs/heads/main/imgs/character-notion.webp) | ![portada](https://raw.githubusercontent.com/kimvex/storycanvas-blog-info/refs/heads/main/imgs/cover-notion.webp) |
 
 ## 🎯 为什么要做这个改动？  
 StoryCanvas 旨在不仅仅是一个小说写作工具，而是一个 **灵活有序的空间，帮助您整理想法、角色和世界观**。这些新功能让您的写作体验更加顺畅。  

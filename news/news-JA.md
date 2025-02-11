@@ -20,7 +20,14 @@
 - 🎨 **テキストの色を変更**  
 - `インラインコード`  
 - 🔖 **テキストのマーカー**  
-- 🔠 **テキストの大文字・小文字変換** (大文字、小文字、キャピタライズ...)  
+- 🔠 **テキストの大文字・小文字変換** (大文字、小文字、キャピタライズ...)
+
+![Notas](https://raw.githubusercontent.com/kimvex/storycanvas-blog-info/refs/heads/main/imgs/notas-more-options.webp)
+
+| | |
+|-----------|-----------|
+| ![Notas](https://raw.githubusercontent.com/kimvex/storycanvas-blog-info/refs/heads/main/imgs/notes-notion.webp) | ![Lugar](https://raw.githubusercontent.com/kimvex/storycanvas-blog-info/refs/heads/main/imgs/places-notion.webp) |
+| ![Personaje](https://raw.githubusercontent.com/kimvex/storycanvas-blog-info/refs/heads/main/imgs/character-notion.webp) | ![portada](https://raw.githubusercontent.com/kimvex/storycanvas-blog-info/refs/heads/main/imgs/cover-notion.webp) |
 
 ## 🎯 なぜこの変更を？  
 StoryCanvasは単なる小説執筆ツールではなく、**アイデアやキャラクター、世界観を整理するための柔軟で使いやすいスペース** を目指しています。この新機能により、情報整理と執筆の流れがよりスムーズになります。  

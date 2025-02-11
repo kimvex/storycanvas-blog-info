@@ -22,6 +22,13 @@ Nous avons amélioré les sections **Notes, Couvertures, Personnages et Lieux**,
 - 🔖 **Surligner du texte**  
 - 🔠 **Modifier la casse du texte** (MAJUSCULES, minuscules, Capitalisé...)  
 
+![Notas](https://raw.githubusercontent.com/kimvex/storycanvas-blog-info/refs/heads/main/imgs/notas-more-options.webp)
+
+| | |
+|-----------|-----------|
+| ![Notas](https://raw.githubusercontent.com/kimvex/storycanvas-blog-info/refs/heads/main/imgs/notes-notion.webp) | ![Lugar](https://raw.githubusercontent.com/kimvex/storycanvas-blog-info/refs/heads/main/imgs/places-notion.webp) |
+| ![Personaje](https://raw.githubusercontent.com/kimvex/storycanvas-blog-info/refs/heads/main/imgs/character-notion.webp) | ![portada](https://raw.githubusercontent.com/kimvex/storycanvas-blog-info/refs/heads/main/imgs/cover-notion.webp) |
+
 ## 🎯 Pourquoi ce changement ?  
 Nous voulons que StoryCanvas soit non seulement un outil puissant pour écrire des romans, mais aussi un **espace flexible et organisé pour développer des idées, des personnages et des mondes**. Ces nouvelles fonctionnalités vous aideront à mieux structurer vos informations et à améliorer votre flux d’écriture.  
 

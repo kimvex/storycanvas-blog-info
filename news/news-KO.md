@@ -22,6 +22,13 @@
 - 🔖 **텍스트 강조 표시**  
 - 🔠 **대소문자 변경** (대문자, 소문자, 첫 글자 대문자...)  
 
+![Notas](https://raw.githubusercontent.com/kimvex/storycanvas-blog-info/refs/heads/main/imgs/notas-more-options.webp)
+
+| | |
+|-----------|-----------|
+| ![Notas](https://raw.githubusercontent.com/kimvex/storycanvas-blog-info/refs/heads/main/imgs/notes-notion.webp) | ![Lugar](https://raw.githubusercontent.com/kimvex/storycanvas-blog-info/refs/heads/main/imgs/places-notion.webp) |
+| ![Personaje](https://raw.githubusercontent.com/kimvex/storycanvas-blog-info/refs/heads/main/imgs/character-notion.webp) | ![portada](https://raw.githubusercontent.com/kimvex/storycanvas-blog-info/refs/heads/main/imgs/cover-notion.webp) |
+
 ## 🎯 왜 이러한 변경이 필요할까요?  
 StoryCanvas는 단순한 소설 작성 도구가 아니라, **아이디어, 캐릭터 및 세계관을 구성하고 정리할 수 있는 유연하고 체계적인 공간** 을 목표로 합니다. 새로운 기능을 통해 글쓰기의 흐름을 더욱 향상시킬 수 있습니다.  
 
