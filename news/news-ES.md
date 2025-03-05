@@ -31,7 +31,7 @@ A continuación, te mostramos cómo hacerlo:
 - Se resolvió el error que impedía descargar capítulos o el libro completo en condiciones específicas.
 - Se mejoró el modelo que realiza las traducciones para evitar errores recurrentes con la herramienta.
 
-Esperamos que estas mejoras y correcciones de errores te ayuden a tener una mejor experiencia con la herramienta. Si tienes alguna duda o encuentras algún problema, no dudes en enviarnos un mensaje en la caja de contacto o [contactarnos en Discord](https://discord.gg/Auf4QNr5Uk) para una atención más rápida. 💬
+Esperamos que estas mejoras y correcciones de errores te ayuden a tener una mejor experiencia con la herramienta. Si tienes alguna duda o encuentras algún problema, no dudes en enviarnos un mensaje en la caja de contacto o **[contactarnos en Discord](https://discord.gg/Auf4QNr5Uk)** para una atención más rápida. 💬
 
 
 ----
