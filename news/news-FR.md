@@ -1,3 +1,41 @@
+# Mise à jour et corrections de bugs 🚀
+
+Nous avons effectué quelques mises à jour pour améliorer votre expérience sur **StoryCanvas**.
+
+## Changements principaux
+
+- Une modification a été ajoutée pour empêcher la page de se traduire automatiquement avec Google Translate. Cela provoquait une erreur qui effaçait les textes dans la section des chapitres et empêchait d'écrire. ⚠️
+
+### Remarque:
+Si vous rencontrez toujours ce problème, nous vous suggérons de suivre les étapes suivantes :
+
+- 🔄 **Rechargez la page** pour obtenir la mise à jour.
+- 🚫 **Empêchez l'outil de traduction de votre navigateur de traduire automatiquement la page.**
+
+  ![Exemple de configuration de traduction](https://statics.storycanvas.app/traductor-img.webp)
+
+- ⚙️ *(Optionnel)* **Configurez l'outil de traduction de votre navigateur pour qu'il ne traduise jamais la page.**
+
+Ci-dessous, nous vous montrons comment procéder :
+
+| | |
+|-----------|-----------|
+| ![Image1](https://statics.storycanvas.app/traductor-img.webp) | ![Image2](https://statics.storycanvas.app/traductor-tool-changex.webp) |
+
+## Autres corrections de bugs 🛠️
+
+- Correction d'une erreur qui empêchait la création d'une tâche dans l'outil **Boards** avec plus de 200 caractères.
+- Correction de l'erreur qui empêchait la création d'une tâche dans **Boards** lorsque l'erreur de description vide se produisait.
+- Correction de l'erreur qui empêchait la création d'événements dans les lignes de temps lorsque la description dépassait 200 caractères.
+- Correction de l'erreur qui n'affichait pas l'alerte de limite d'âge pour un personnage.
+- Correction de l'erreur qui empêchait le téléchargement des chapitres ou du livre complet dans des conditions spécifiques.
+- Amélioration du modèle de traduction pour éviter les erreurs récurrentes avec l'outil.
+
+Nous espérons que ces améliorations et corrections de bugs vous aideront à mieux utiliser l'outil. Si vous avez des questions ou rencontrez un problème, n'hésitez pas à nous envoyer un message via la boîte de contact ou **[à nous contacter sur Discord](https://discord.gg/Auf4QNr5Uk)** pour une assistance plus rapide. 💬
+
+---
+
+
 # 🚀 Nouvelle mise à jour de StoryCanvas : Expérience d’écriture améliorée comme Notion ! 🎉  
 
 Nous avons amélioré les sections **Notes, Couvertures, Personnages et Lieux**, en ajoutant une expérience d’édition plus dynamique et intuitive. Désormais, chaque paragraphe dispose d’un **menu latéral** et d’une **barre d’outils flottante**, permettant de transformer et formater votre contenu avec plus de flexibilité.  

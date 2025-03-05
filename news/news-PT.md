@@ -1,3 +1,40 @@
+# Atualização e Correção de Bugs 🚀
+
+Realizamos algumas atualizações para melhorar sua experiência no **StoryCanvas**.
+
+## Principais Mudanças
+
+- Adicionamos uma alteração que impede a tradução automática da página pelo Google Translate. Isso causava um erro que apagava os textos na seção de capítulos e impedia a escrita. ⚠️
+
+### Observação:
+Se você ainda estiver enfrentando esse problema, sugerimos seguir os passos abaixo:
+
+- 🔄 **Recarregue a página** para aplicar a atualização.
+- 🚫 **Impeça que a ferramenta de tradução do navegador traduza a página automaticamente.**
+
+  ![Exemplo de configuração de tradução](https://statics.storycanvas.app/traductor-img.webp)
+
+- ⚙️ *(Opcional)* **Configure a ferramenta de tradução do navegador para que nunca traduza a página.**
+
+A seguir, mostramos como fazer:
+
+| | |
+|-----------|-----------|
+| ![Imagem1](https://statics.storycanvas.app/traductor-img.webp) | ![Imagem2](https://statics.storycanvas.app/traductor-tool-changex.webp) |
+
+## Outras Correções de Bugs 🛠️
+
+- Corrigido um erro que impedia a criação de uma tarefa na ferramenta **Boards** com mais de 200 caracteres.
+- Corrigido o erro que impedia a criação de uma tarefa no **Boards** quando ocorria erro de descrição vazia.
+- Corrigido o erro que impedia a criação de eventos nas linhas do tempo quando a descrição excedia 200 caracteres.
+- Corrigido o erro que não exibia o alerta de limite de idade para um personagem.
+- Corrigido o erro que impedia o download de capítulos ou do livro completo em condições específicas.
+- Melhorado o modelo de tradução para evitar erros recorrentes na ferramenta.
+
+Esperamos que essas melhorias e correções de bugs proporcionem uma experiência melhor com a ferramenta. Se você tiver alguma dúvida ou encontrar algum problema, não hesite em nos enviar uma mensagem na caixa de contato ou **[contatar-nos pelo Discord](https://discord.gg/Auf4QNr5Uk)** para um suporte mais rápido. 💬
+
+---
+
 # 🚀 Nova atualização no StoryCanvas: Experiência de escrita aprimorada como o Notion! 🎉  
 
 Melhoramos as seções de **Notas, Capas, Personagens e Lugares**, adicionando uma experiência de edição mais dinâmica e intuitiva. Agora, cada parágrafo tem um **menu lateral** e uma **barra de ferramentas flutuante**, permitindo transformar e formatar seu conteúdo com mais flexibilidade.  

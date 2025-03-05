@@ -1,3 +1,41 @@
+# Update and Bug Fixes 🚀
+
+We have made some updates to improve your experience on **StoryCanvas**.
+
+## Main Changes
+
+- A change was added to prevent the page from automatically translating with Google Translate. This caused an error that erased texts in the chapters section and prevented writing. ⚠️
+
+### Note:
+If you still experience this issue, we suggest taking the following steps:
+
+- 🔄 **Reload the page** to get the update.
+- 🚫 **Prevent your browser’s translation tool from automatically translating the page.**
+
+  ![Example of translation settings](https://statics.storycanvas.app/traductor-img.webp)
+
+- ⚙️ *(Optional)* **Configure your browser’s translation tool so that it never translates the page.**
+
+Below, we show you how to do it:
+
+| | |
+|-----------|-----------|
+| ![Image1](https://statics.storycanvas.app/traductor-img.webp) | ![Image2](https://statics.storycanvas.app/traductor-tool-changex.webp) |
+
+## Other Bug Fixes 🛠️
+
+- Fixed an error that prevented creating a task in the **Boards** tool with more than 200 characters.
+- Fixed the error that prevented creating a task in **Boards** when a blank description error occurred.
+- Fixed the error that prevented creating events in the timelines when the description exceeded 200 characters.
+- Fixed the error that did not display an age limit alert for a character.
+- Fixed the error that prevented downloading chapters or the complete book under specific conditions.
+- Improved the translation model to avoid recurring errors with the tool.
+
+We hope these improvements and bug fixes help you have a better experience with the tool. If you have any questions or encounter any issues, do not hesitate to send us a message in the contact box or **[contact us on Discord](https://discord.gg/Auf4QNr5Uk)** for faster support. 💬
+
+---
+
+
 # 🚀 New Update in StoryCanvas: Improved Writing Experience Like Notion! 🎉  
 
 We have enhanced the **Notes, Covers, Characters, and Places** sections, introducing a more dynamic and intuitive editing experience. Now, each paragraph features a **side menu** and a **floating toolbar**, allowing you to transform and format your content more flexibly.  
