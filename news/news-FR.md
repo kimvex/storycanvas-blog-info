@@ -1,3 +1,18 @@
+# 🕒 Mise à jour : Événements de la frise chronologique
+
+Nous avons amélioré la gestion des événements dans vos frises chronologiques !
+
+Vous pouvez désormais déplacer les événements vers l’avant ou l’arrière directement à partir des dates affichées sur chaque carte d’événement, comme illustré ci-dessous.
+
+| | |
+|-----------|-----------|
+| ![Image1](https://statics.storycanvas.app/timeline-1.webp) | ![Image2](https://statics.storycanvas.app/timeline-x2.webp) |
+
+Merci pour vos retours et suggestions. Cette fonctionnalité a été demandée par vous, et nous sommes ravis de l'avoir mise en œuvre.
+
+Nous espérons que cette mise à jour vous aidera à mieux organiser vos histoires.
+
+
 # Mise à jour et corrections de bugs 🚀
 
 Nous avons effectué quelques mises à jour pour améliorer votre expérience sur **StoryCanvas**.

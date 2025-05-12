@@ -1,3 +1,18 @@
+# 🕒 Aggiornamento: Eventi nella Linea del Tempo
+
+Abbiamo migliorato la gestione degli eventi nelle linee del tempo!
+
+Ora puoi spostare gli eventi avanti o indietro direttamente dalle date visualizzate su ogni scheda evento, come mostrato nelle immagini seguenti.
+
+| | |
+|-----------|-----------|
+| ![Immagine1](https://statics.storycanvas.app/timeline-1.webp) | ![Immagine2](https://statics.storycanvas.app/timeline-x2.webp) |
+
+Grazie per i vostri commenti e suggerimenti. Questa funzionalità è stata richiesta proprio da voi e siamo felici di averla implementata.
+
+Speriamo che questo aggiornamento vi aiuti a organizzare meglio le vostre storie.
+
+
 # Aggiornamento e risoluzione dei bug 🚀
 
 Abbiamo apportato alcuni aggiornamenti per migliorare la tua esperienza su **StoryCanvas**.

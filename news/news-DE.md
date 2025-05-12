@@ -1,3 +1,18 @@
+# 🕒 Update: Ereignisse in der Zeitleiste
+
+Wir haben die Verwaltung von Ereignissen in deinen Zeitachsen verbessert!
+
+Du kannst nun Ereignisse direkt über die Datumsangaben auf den Ereigniskarten nach vorne oder hinten verschieben – wie in den folgenden Bildern gezeigt.
+
+| | |
+|-----------|-----------|
+| ![Bild1](https://statics.storycanvas.app/timeline-1.webp) | ![Bild2](https://statics.storycanvas.app/timeline-x2.webp) |
+
+Vielen Dank für euer Feedback und eure Vorschläge. Diese Funktion wurde von euch gewünscht – und wir freuen uns, sie nun anzubieten.
+
+Wir hoffen, dieses Update hilft euch, eure Geschichten noch besser zu organisieren.
+
+
 # Aktualisierung und Fehlerbehebungen 🚀
 
 Wir haben einige Aktualisierungen vorgenommen, um Ihre Erfahrung mit **StoryCanvas** zu verbessern.

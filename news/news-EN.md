@@ -1,3 +1,18 @@
+# 🕒 Update: Timeline Events
+
+We’ve improved how you manage events in your timelines!
+
+You can now move events forward or backward directly using the dates shown on each event card, as demonstrated in the images below.
+
+| | |
+|-----------|-----------|
+| ![Image1](https://statics.storycanvas.app/timeline-1.webp) | ![Image2](https://statics.storycanvas.app/timeline-x2.webp) |
+
+Thank you for your feedback and suggestions. This feature was requested by you, and we’re happy to make it happen.
+
+We hope this update helps you better organize your stories.
+
+
 # Update and Bug Fixes 🚀
 
 We have made some updates to improve your experience on **StoryCanvas**.
