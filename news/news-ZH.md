@@ -1,3 +1,24 @@
+# 🆕 更新：PDF表单现已可下载！
+
+我们推出了一个新功能，可以从以下模块中**下载PDF格式的表单**：
+
+- 🧍‍♀️ 角色卡片  
+- 📝 笔记  
+- 🗺️ 地图卡片  
+
+| | | |
+|-----------|-----------|-----------|
+| ![图片1](https://statics.storycanvas.app/ficha-personaje_1.webp) | ![图片2](https://statics.storycanvas.app/ficha-mapa.webp) | ![图片3](https://statics.storycanvas.app/ficha-nota_1.webp) |
+
+## 📥 下载按钮在哪里？
+
+进入各个模块页面即可看到如下按钮：
+
+![下载按钮](https://statics.storycanvas.app/pdf-download.webp)
+
+这项功能是社区呼声最高的请求之一，我们非常高兴终于上线它了！🚀
+
+
 # 🕒 更新：时间线事件
 
 我们改进了时间线中事件的管理方式！

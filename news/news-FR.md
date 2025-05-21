@@ -1,3 +1,24 @@
+# 🆕 Mise à jour : Fiches téléchargeables en PDF !
+
+Nous avons lancé une nouvelle fonctionnalité qui vous permet de **télécharger des fiches au format PDF** pour les sections suivantes :
+
+- 🧍‍♀️ Fiches de personnage  
+- 📝 Notes  
+- 🗺️ Fiches de carte  
+
+| | | |
+|-----------|-----------|-----------|
+| ![Image1](https://statics.storycanvas.app/ficha-personaje_1.webp) | ![Image2](https://statics.storycanvas.app/ficha-mapa.webp) | ![Image3](https://statics.storycanvas.app/ficha-nota_1.webp) |
+
+## 📥 Où trouver l’option de téléchargement ?
+
+Vous pouvez télécharger chaque fiche en accédant à sa section. Vous y verrez le bouton suivant :
+
+![Bouton de téléchargement](https://statics.storycanvas.app/pdf-download.webp)
+
+Cette fonctionnalité était l'une des plus demandées par la communauté. Merci à vous — d'autres mises à jour arrivent bientôt ! 🚀
+
+
 # 🕒 Mise à jour : Événements de la frise chronologique
 
 Nous avons amélioré la gestion des événements dans vos frises chronologiques !

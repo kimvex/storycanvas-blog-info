@@ -1,3 +1,26 @@
+# 🆕 Update: PDF-Steckbriefe jetzt zum Download!
+
+Wir haben ein neues Feature veröffentlicht, mit dem du **Steckbriefe als PDF herunterladen** kannst – für folgende Bereiche:
+
+- 🧍‍♀️ Charakter-Steckbriefe  
+- 📝 Notizen  
+- 🗺️ Karten-Steckbriefe  
+
+| | | |
+|-----------|-----------|-----------|
+| ![Bild1](https://statics.storycanvas.app/ficha-personaje_1.webp) | ![Bild2](https://statics.storycanvas.app/ficha-mapa.webp) | ![Bild3](https://statics.storycanvas.app/ficha-nota_1.webp) |
+
+## 📥 Wo findest du die Download-Option?
+
+Du kannst jeden Steckbrief direkt im jeweiligen Bereich herunterladen. Dort findest du diesen Button:
+
+![Download-Button](https://statics.storycanvas.app/pdf-download.webp)
+
+Diese Funktion war eine der am häufigsten gewünschten – und jetzt ist sie da! Vielen Dank für euer Feedback.
+
+Weitere Updates auf Basis eurer Vorschläge folgen bald. 🚀
+
+
 # 🕒 Update: Ereignisse in der Zeitleiste
 
 Wir haben die Verwaltung von Ereignissen in deinen Zeitachsen verbessert!

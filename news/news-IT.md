@@ -1,3 +1,24 @@
+# 🆕 Aggiornamento: Schede scaricabili in PDF!
+
+Abbiamo rilasciato una nuova funzione che ti permette di **scaricare schede in formato PDF** per le seguenti sezioni:
+
+- 🧍‍♀️ Schede personaggio  
+- 📝 Note  
+- 🗺️ Schede mappa  
+
+| | | |
+|-----------|-----------|-----------|
+| ![Immagine1](https://statics.storycanvas.app/ficha-personaje_1.webp) | ![Immagine2](https://statics.storycanvas.app/ficha-mapa.webp) | ![Immagine3](https://statics.storycanvas.app/ficha-nota_1.webp) |
+
+## 📥 Dove si trova l'opzione di download?
+
+Puoi scaricare ogni scheda entrando nella relativa sezione. Lì troverai questo pulsante:
+
+![Pulsante di download](https://statics.storycanvas.app/pdf-download.webp)
+
+Era una delle funzioni più richieste dalla community — e siamo felici di offrirla finalmente! 🚀
+
+
 # 🕒 Aggiornamento: Eventi nella Linea del Tempo
 
 Abbiamo migliorato la gestione degli eventi nelle linee del tempo!

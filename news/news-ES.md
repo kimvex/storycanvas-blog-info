@@ -1,3 +1,28 @@
+# 🆕 Actualización: ¡Fichas descargables en PDF!
+
+Hemos lanzado una nueva funcionalidad que permite **descargar fichas en formato PDF** de las siguientes secciones:
+
+- 🧍‍♀️ Fichas de personaje  
+- 📝 Notas  
+- 🗺️ Fichas de mapa  
+
+| | | |
+|-----------|-----------|-----------|
+| ![Imagen1](https://statics.storycanvas.app/ficha-personaje_1.webp) | ![Imagen2](https://statics.storycanvas.app/ficha-mapa.webp) | ![Imagen3](https://statics.storycanvas.app/ficha-nota_1.webp) |
+
+## 📥 ¿Dónde encontrar la opción de descarga?
+
+Puedes descargar cada ficha entrando a la sección correspondiente. Allí verás el siguiente botón:
+
+![Botón de descarga](https://statics.storycanvas.app/pdf-download.webp)
+
+Sabemos que esta era una de las funciones más solicitadas por la comunidad, y nos alegra mucho poder incorporarla.
+
+Gracias por compartirnos sus ideas. Seguimos escuchándoles y muy pronto lanzaremos más actualizaciones basadas en sus propuestas. 🚀
+
+
+
+
 # 🕒 Actualización: Eventos en la Línea de Tiempo
 
 ¡Hemos mejorado la forma en que manejas los eventos en tus líneas de tiempo!  

@@ -1,3 +1,26 @@
+# 🆕 Update: Downloadable PDF Sheets!
+
+We’ve launched a new feature that lets you **download sheets in PDF format** from the following sections:
+
+- 🧍‍♀️ Character sheets  
+- 📝 Notes  
+- 🗺️ Map sheets  
+
+| | | |
+|-----------|-----------|-----------|
+| ![Image1](https://statics.storycanvas.app/ficha-personaje_1.webp) | ![Image2](https://statics.storycanvas.app/ficha-mapa.webp) | ![Image3](https://statics.storycanvas.app/ficha-nota_1.webp) |
+
+## 📥 Where to find the download option?
+
+You can download each sheet by entering its section. There you’ll see the following button:
+
+![Download Button](https://statics.storycanvas.app/pdf-download.webp)
+
+This was one of the most requested features by our community, and we’re thrilled to finally bring it to life.
+
+Thanks for your feedback — more updates based on your suggestions are coming soon. 🚀
+
+
 # 🕒 Update: Timeline Events
 
 We’ve improved how you manage events in your timelines!

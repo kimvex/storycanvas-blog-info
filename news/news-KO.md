@@ -1,3 +1,24 @@
+# 🆕 업데이트: PDF 양식 다운로드 기능!
+
+이제 다음 섹션에서 **PDF 형식으로 양식을 다운로드**할 수 있습니다:
+
+- 🧍‍♀️ 캐릭터 시트  
+- 📝 노트  
+- 🗺️ 지도 시트  
+
+| | | |
+|-----------|-----------|-----------|
+| ![이미지1](https://statics.storycanvas.app/ficha-personaje_1.webp) | ![이미지2](https://statics.storycanvas.app/ficha-mapa.webp) | ![이미지3](https://statics.storycanvas.app/ficha-nota_1.webp) |
+
+## 📥 다운로드 옵션은 어디에 있나요?
+
+각 항목의 섹션에 들어가면 아래 버튼을 확인할 수 있습니다:
+
+![다운로드 버튼](https://statics.storycanvas.app/pdf-download.webp)
+
+이 기능은 커뮤니티에서 가장 많이 요청한 기능 중 하나였습니다. 여러분의 피드백에 감사드립니다 — 곧 더 많은 업데이트가 제공될 예정입니다. 🚀
+
+
 # 🕒 업데이트: 타임라인 이벤트
 
 타임라인 이벤트 관리 방식이 개선되었습니다!
