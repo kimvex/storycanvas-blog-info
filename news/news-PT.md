@@ -1,3 +1,106 @@
+# 🎉 Bem-vindos à Nova Era do StoryCanvas! 🎉
+
+No **StoryCanvas**, nossa missão é oferecer as ferramentas para que sua única preocupação seja criar. Hoje damos um salto gigante com um **redesenho total da interface**, pensado para que seu fluxo de trabalho seja mais limpo, rápido e, acima de tudo, inspirador. Otimizamos cada canto da plataforma para que sua criatividade não tenha limites.
+
+---
+
+### ✍️ Concentração Total: Novo Editor e Modo Tela Cheia
+Escrever exige foco absoluto. Lançamos um **novo editor de texto** otimizado especificamente para a narrativa, junto com um **modo tela cheia** que elimina qualquer distração visual, permitindo que você mergulhe completamente no universo da sua história.
+
+| | |
+|-----------|-----------|
+| ![Editor](https://statics.storycanvas.app/news-2026-02-03/bar-tools_1_11zon.webp) | ![Editor](https://statics.storycanvas.app/news-2026-02-03/full-page_8_11zon.webp) |
+
+---
+
+### 🤖 Seu Novo Aliado: O Assistente de Escrita com IA
+Ficou travado em uma cena ou tem dúvidas sobre a coerência da sua trama? Apresentamos o **Assistente StoryCanvas**, uma IA integrada que conhece os detalhes do seu livro e te ajuda com ideias, conselhos e dúvidas técnicas. É como ter um coautor disponível 24/7!
+
+> **Segurança da sua obra:** Sabemos o quanto sua propriedade intelectual é importante. Consulte nossas [Políticas de Privacidade](https://storycanvas.app/privacity) para saber como protegemos seus dados e o uso ético da IA com seu conteúdo.
+
+*Nota: Esta função está disponível em nossos planos premium.* [Ver na Loja 🛒](https://storycanvas.app/shop)
+
+![Assistente](https://statics.storycanvas.app/news-2026-02-03/ia-assitant_10_11zon.webp)
+
+---
+
+### 📖 O Poder da Comunidade: Leitores Beta
+O feedback é a chave para o sucesso! Agora você pode convidar **Leitores Beta** através de um link e um código exclusivo. 
+- **Controle total:** Você escolhe quais capítulos eles podem ler e quais permanecem em segredo.
+- **Feedback direto:** Os leitores comentam cada capítulo e você gerencia as sugestões no seu painel central.
+- **Segmentação:** A quantidade de leitores permitidos varia de acordo com o seu plano contratado. [Consulte os limites aqui 🏬](http://storycanvas.app/shop)
+
+| | |
+|-----------|-----------|
+|![alt text](https://statics.storycanvas.app/news-2026-02-03/beta-readers_2_11zon.webp)|![alt text](https://statics.storycanvas.app/news-2026-02-03/comment-beta_3_11zon.webp)|
+|![alt text](https://statics.storycanvas.app/news-2026-02-03/home-beta_9_11zon.webp)|![alt text](https://statics.storycanvas.app/news-2026-02-03/page-comment-beta_11_11zon.webp)|
+
+---
+
+### 🌐 Seu Livro, Sua Marca: Páginas Web e Construtor de Sites
+Agora cada livro pode ter sua própria presença profissional na web. Com nossa nova ferramenta de **Páginas para Livros**, você poderá:
+- Desfrutar de um **subdomínio próprio** (ex: meulivro.storycanvas.page).
+- Usar nosso **Construtor de Sites** com modelos focados em livros para criar sua landing page em minutos.
+- A variedade e quantidade de modelos disponíveis dependerão do seu plano.
+
+| | |
+|-----------|-----------|
+|![alt text](https://statics.storycanvas.app/news-2026-02-03/templates-pages_15_11zon.webp)|![alt text](https://statics.storycanvas.app/news-2026-02-03/editor-page_7_11zon.webp)|
+
+![alt text](https://statics.storycanvas.app/news-2026-02-03/subdomain-management_12_11zon.webp)
+
+---
+
+### 📝 Resumos Inteligentes com IA
+Precisa refrescar a memória sobre um arco narrativo ou capítulo anterior? Nossa nova ferramenta de **Resumos com IA** sintetiza seus textos em pontos-chave de forma clara e simples.
+- **Flexibilidade:** Você conta com resumos gratuitos mensais, e a quantidade aumenta conforme o plano escolhido. [Ver detalhes dos planos 📈](https://storycanvas.app/shop)
+
+| | |
+|-----------|-----------|
+|![alt text](https://statics.storycanvas.app/news-2026-02-03/summary-1.webp)| ![alt text](https://statics.storycanvas.app/news-2026-02-03/sumary-2.webp)|
+
+---
+
+### 🎨 Arte e Correção Potencializada
+- **Rediseno de Imagens:** Renovamos a seção de arte. Agora inclui um **histórico de geração** para recuperar suas criações passadas e um **novo modelo de alta qualidade** para usuários de planos pagos.
+- **Corretor de Textos Pro:** Atualizamos nosso modelo de correção. Agora está mais potente, detecta melhor o contexto narrativo e oferece sugestões precisas para que sua prosa seja impecável.
+
+---
+
+### 🎯 Metas de Escrita e Dashboard
+Mantenha o compromisso com você mesmo! Configure **Metas de Escrita** personalizadas no dashboard de cada livro. Registre seus avanços diários e alcance seus objetivos de palavras de forma organizada.
+
+![alt text](https://statics.storycanvas.app/news-2026-02-03/dashboard_4_11zon.webp)
+
+---
+
+### 💬 Centro de Notificações e Suporte
+Queremos te ouvir. Estreamos um **Centro de Notificações** para você ficar em dia com sua atividade e um **Chat de Suporte** direto para resolver qualquer dúvida técnica com a equipe do StoryCanvas instantaneamente.
+
+---
+
+### 💎 Novos Planos StoryCanvas
+Para dar suporte a estas potentes tecnologias, atualizamos nossa oferta de assinaturas. Desbloqueie ferramentas de IA avançada, maior quantidade de leitores beta e templates exclusivos escolhendo o plano que melhor se adapta à sua carreira literária.
+👉 [Explorar a Loja e Planos](https://storycanvas.app/shop)
+
+---
+
+### ⚖️ Atualizações Importantes
+Atualizamos nossos documentos legais para refletir as novas funcionalidades e proteger ainda melhor sua privacidade:
+- [Termos e Condições](https://storycanvas.app/terms-and-conditions)
+- [Política de Privacidade](https://storycanvas.app/privacity)
+
+---
+
+Estamos profundamente empolgados para ver como você utilizará estas ferramentas para dar vida a histórias incríveis. Obrigado por confiar no StoryCanvas para proteger e impulsionar seu talento.
+
+**Boa escrita!**
+
+Com carinho,  
+**A Equipe StoryCanvas** ❤️📚
+
+
+---
 # 🆕 Atualização: Fichas em PDF para download!
 
 Lançamos uma nova funcionalidade que permite **baixar fichas em formato PDF** das seguintes seções:

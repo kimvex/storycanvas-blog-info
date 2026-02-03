@@ -1,3 +1,106 @@
+# 🎉 欢迎来到 StoryCanvas 的新纪元！ 🎉
+
+在 **StoryCanvas**，我们的使命是为您提供最出色的工具，让您能够全神贯注于“创作”。今天，我们迈出了巨大的一步——**界面全面重构**。这次更新旨在让您的工作流程更简洁、更高效，并为您带来前所未有的灵感。我们优化了平台的每一个角落，让您的创意不再受限。
+
+---
+
+### ✍️ 极致专注：新版编辑器与全屏模式
+写作需要绝对的专注。我们推出了专为叙事优化的**全新文本编辑器**，以及能够消除所有视觉干扰的**全屏模式**，助您完全沉浸在故事的世界中。
+
+| | |
+|-----------|-----------|
+| ![编辑器](https://statics.storycanvas.app/news-2026-02-03/bar-tools_1_11zon.webp) | ![编辑器](https://statics.storycanvas.app/news-2026-02-03/full-page_8_11zon.webp) |
+
+---
+
+### 🤖 您的创作新伙伴：AI 写作助手
+在某个场景卡壳了？或是对情节的逻辑性有所疑虑？为您隆重介绍 **StoryCanvas 助手**。这是一个深入了解您书籍细节的内置 AI，能够为您提供创意、建议并解答技术性问题。这就像拥有一位 24/7 全天候待命的联合创作者！
+
+> **您的作品安全：** 我们深知知识产权的重要性。请查看我们的 [隐私政策](https://storycanvas.app/privacity)，了解我们如何保护您的数据以及如何合乎伦理地将 AI 应用于您的内容。
+
+*注意：此功能仅在高级计划中提供。* [前往商店查看计划 🛒](https://storycanvas.app/shop)
+
+![助手](https://statics.storycanvas.app/news-2026-02-03/ia-assitant_10_11zon.webp)
+
+---
+
+### 📖 社区的力量：Beta 读者
+反馈是创作名著的关键！现在，您可以通过专属链接和代码邀请 **Beta 读者**。
+- **完全掌控：** 您可以自由选择哪些章节允许阅读，哪些章节保持神秘。
+- **直接反馈：** 读者可以对每个章节发表评论，而您可以通过中央控制面板统一管理这些建议。
+- **计划配额：** 可邀请的读者数量视您的订阅计划而定。 [在此查看限额 🏬](http://storycanvas.app/shop)
+
+| | |
+|-----------|-----------|
+|![alt text](https://statics.storycanvas.app/news-2026-02-03/beta-readers_2_11zon.webp)|![alt text](https://statics.storycanvas.app/news-2026-02-03/comment-beta_3_11zon.webp)|
+|![alt text](https://statics.storycanvas.app/news-2026-02-03/home-beta_9_11zon.webp)|![alt text](https://statics.storycanvas.app/news-2026-02-03/page-comment-beta_11_11zon.webp)|
+
+---
+
+### 🌐 书籍即品牌：网页生成与站点构建器
+现在，每一本书都能在网络上拥有专业的展示窗口。通过全新的 **书籍页面 (Book Pages)** 工具，您可以：
+- 拥有**专属二级域名**（例如：mybook.storycanvas.page）。
+- 使用内置模板的**站点构建器**，在几分钟内创建精美的图书落地页。
+- 模板的种类和数量取决于您的订阅计划。
+
+| | |
+|-----------|-----------|
+|![alt text](https://statics.storycanvas.app/news-2026-02-03/templates-pages_15_11zon.webp)|![alt text](https://statics.storycanvas.app/news-2026-02-03/editor-page_7_11zon.webp)|
+
+![alt text](https://statics.storycanvas.app/news-2026-02-03/subdomain-management_12_11zon.webp)
+
+---
+
+### 📝 智能 AI 摘要
+需要快速回顾之前的故事情节或章节内容？全新的 **AI 摘要** 工具能将您的文字提炼为清晰简洁的关键点。
+- **灵活性：** 每个月提供免费摘要额度，数量随计划等级增加。 [查看计划详情 📈](https://storycanvas.app/shop)
+
+| | |
+|-----------|-----------|
+|![alt text](https://statics.storycanvas.app/news-2026-02-03/summary-1.webp)| ![alt text](https://statics.storycanvas.app/news-2026-02-03/sumary-2.webp)|
+
+---
+
+### 🎨 艺术生成与强化校对
+- **图片生成重构：** 艺术版块焕然一新。现在包含**生成历史记录**，方便找回之前的创意。此外，我们为付费用户新增了**高质量模型**。
+- **专业文本校对：** 我们升级了校对模型。它现在更加强大，能更好地理解叙事语境，并提供精准建议，让您的文笔更加精炼。
+
+---
+
+### 🎯 写作目标与仪表盘
+保持自律！在每本书的仪表盘上设置个性化的**写作目标**。记录您的每日进展，以有条不紊的方式达成字数目标。
+
+![alt text](https://statics.storycanvas.app/news-2026-02-03/dashboard_4_11zon.webp)
+
+---
+
+### 💬 通知中心与支持
+我们珍视您的声音。全新的**通知中心**让您随时掌握动态；**在线支持聊天**可让您即时与 StoryCanvas 团队沟通，解决任何技术疑问。
+
+---
+
+### 💎 StoryCanvas 全新计划
+为了支持这些强大的技术，我们更新了订阅计划。选择最适合您创作生涯的方案，解锁高级 AI 工具、更多 Beta 读者名额及专属模板。
+👉 [探索商店与计划](https://storycanvas.app/shop)
+
+---
+
+### ⚖️ 重要更新
+为了配合新功能并更好地保护您的隐私，我们更新了以下法律文档：
+- [服务条款](https://storycanvas.app/terms-and-conditions)
+- [隐私政策](https://storycanvas.app/privacity)
+
+---
+
+我们满怀期待地想看到您如何利用这些工具创作出令人惊叹的故事。感谢您信任 StoryCanvas，让我们有机会守护并助力您的才华。
+
+**祝写作愉快！**
+
+爱您的，  
+**StoryCanvas 团队** ❤️📚
+
+
+---
 # 🆕 更新：PDF表单现已可下载！
 
 我们推出了一个新功能，可以从以下模块中**下载PDF格式的表单**：

@@ -1,3 +1,105 @@
+# 🎉 Bienvenue dans la nouvelle ère de StoryCanvas ! 🎉
+
+Chez **StoryCanvas**, nuestra misión es darte las herramientas para que tu única preocupación sea crear. Hoy damos un salto gigante con un **rediseño total de la interfaz**, pensado para que tu flujo de trabajo sea más limpio, rápido y, sobre todo, inspirador. Hemos optimizado cada rincón de la plataforma para que tu creatividad no tenga límites.
+
+---
+
+### ✍️ Concentration Totale : Nouvel Éditeur et Mode Plein Écran
+Écrire demande un focus absolu. Nous avons lancé un **nouvel éditeur de texte** optimisé spécifiquement pour la narration, ainsi qu'un **mode plein écran** qui élimine toute distraction visuelle, vous permettant de vous immerger totalement dans l'univers de votre histoire.
+
+| | |
+|-----------|-----------|
+| ![Éditeur](https://statics.storycanvas.app/news-2026-02-03/bar-tools_1_11zon.webp) | ![Éditeur](https://statics.storycanvas.app/news-2026-02-03/full-page_8_11zon.webp) |
+
+---
+
+### 🤖 Votre nouvel allié : L'Assistant d'Écriture IA
+Vous bloquez sur une scène ou vous avez des doutes sur la cohérence de votre intrigue ? Voici l'**Assistant StoryCanvas**, une IA intégrée qui connaît les détails de votre livre et vous aide avec des idées, des conseils et des questions techniques. C'est comme avoir un co-auteur disponible 24h/24 et 7j/7 !
+
+> **Sécurité de votre œuvre :** Nous savons à quel point votre propriété intellectuelle est importante. Consultez notre [Politique de Confidentialité](https://storycanvas.app/privacity) pour savoir comment nous protégeons vos données et l'utilisation éthique de l'IA avec votre contenu.
+
+*Note : Cette fonctionnalité est disponible dans nos forfaits premium.* [Voir dans la Boutique 🛒](https://storycanvas.app/shop)
+
+![Assistant](https://statics.storycanvas.app/news-2026-02-03/ia-assitant_10_11zon.webp)
+
+---
+
+### 📖 Le pouvoir de la communauté : Lecteurs Bêta
+Le feedback est la clé ! Vous pouvez désormais inviter des **Lecteurs Bêta** via un lien et un code exclusif. 
+- **Contrôle total :** Vous choisissez quels chapitres ils peuvent lire et lesquels restent secrets.
+- **Feedback direct :** Les lecteurs commentent chaque chapitre et vous gérez leurs suggestions depuis votre panneau central.
+- **Segmentation :** La quantité de lecteurs autorisés varie selon votre forfait. [Consultez les limites ici 🏬](http://storycanvas.app/shop)
+
+| | |
+|-----------|-----------|
+|![alt text](https://statics.storycanvas.app/news-2026-02-03/beta-readers_2_11zon.webp)|![alt text](https://statics.storycanvas.app/news-2026-02-03/comment-beta_3_11zon.webp)|
+|![alt text](https://statics.storycanvas.app/news-2026-02-03/home-beta_9_11zon.webp)|![alt text](https://statics.storycanvas.app/news-2026-02-03/page-comment-beta_11_11zon.webp)|
+
+---
+
+### 🌐 Votre livre, votre marque : Pages Web et Constructeur de Sites
+Désormais, chaque livre peut avoir sa propre présence professionnelle sur le web. Avec notre nouvel outil de **Pages pour Livres**, vous pourrez :
+- Profiter de votre **propre sous-domaine** (ex: monlivre.storycanvas.page).
+- Utiliser notre **Constructeur de Sites** avec des modèles axés sur les livres pour créer votre page de présentation en quelques minutes.
+- La variété et la quantité de modèles disponibles dépendront de votre forfait.
+
+| | |
+|-----------|-----------|
+|![alt text](https://statics.storycanvas.app/news-2026-02-03/templates-pages_15_11zon.webp)|![alt text](https://statics.storycanvas.app/news-2026-02-03/editor-page_7_11zon.webp)|
+
+![alt text](https://statics.storycanvas.app/news-2026-02-03/subdomain-management_12_11zon.webp)
+
+---
+
+### 📝 Résumés Intelligents avec l'IA
+Besoin de vous rafraîchir la mémoire sur un arc narratif ou un chapitre précédent ? Notre nouvel outil de **Résumés par IA** synthétise vos textes en points clés de manière claire et simple.
+- **Flexibilité :** Vous disposez de résumés gratuits mensuels, et la quantité augmente selon le forfait que vous choisissez. [Voir les détails des forfaits 📈](https://storycanvas.app/shop)
+
+| | |
+|-----------|-----------|
+|![alt text](https://statics.storycanvas.app/news-2026-02-03/summary-1.webp)| ![alt text](https://statics.storycanvas.app/news-2026-02-03/sumary-2.webp)|
+
+---
+
+### 🎨 Art et Correction Boostés
+- **Refonte des images :** Nous avons renouvelé la section artistique. Elle inclut désormais un **historique de génération** pour retrouver vos créations passées et un **nouveau modèle de haute qualité** pour les utilisateurs payants.
+- **Correcteur de Textes Pro :** Nous avons mis à jour notre modèle de correction. Il est désormais plus puissant, détecte mieux le contexte narratif et propose des suggestions précises pour que votre prose soit impeccable.
+
+---
+
+### 🎯 Objectifs d'Écriture et Tableau de Bord
+Gardez le cap ! Configurez des **Objectifs d'Écriture** personnalisés dans le tableau de bord de chaque livre. Suivez vos progrès quotidiens et atteignez vos cibles de mots de manière organisée.
+
+![alt text](https://statics.storycanvas.app/news-2026-02-03/dashboard_4_11zon.webp)
+
+---
+
+### 💬 Centre de Notifications et Support
+Nous voulons vous entendre. Nous lançons un **Centre de Notifications** pour vous tenir au courant de votre activité et un **Chat de Support** direct pour résoudre toute question technique avec l'équipe StoryCanvas instantanément.
+
+---
+
+### 💎 Nouveaux Forfaits StoryCanvas
+Pour soutenir ces technologies puissantes, nous avons mis à jour nos offres d'abonnement. Débloquez des outils d'IA avancée, un plus grand nombre de lecteurs bêta et des modèles exclusifs en choisissant le forfait qui correspond le mieux à votre carrière littéraire.
+👉 [Explorer la Boutique et les Forfaits](https://storycanvas.app/shop)
+
+---
+
+### ⚖️ Mises à jour Importantes
+Nous avons mis à jour nos documents légaux pour refléter les nouvelles fonctionnalités et encore mieux protéger votre vie privée :
+- [Termes et Conditions](https://storycanvas.app/terms-and-conditions)
+- [Politique de Confidentialité](https://storycanvas.app/privacity)
+
+---
+
+Nous sommes profondément impatients de voir comment vous utiliserez ces outils pour donner vie à des histoires incroyables. Merci de faire confiance à StoryCanvas pour protéger et propulser votre talent.
+
+**Bonne écriture !**
+
+Avec toute notre affection,  
+**L'équipe StoryCanvas** ❤️📚
+
+---
 # 🆕 Mise à jour : Fiches téléchargeables en PDF !
 
 Nous avons lancé une nouvelle fonctionnalité qui vous permet de **télécharger des fiches au format PDF** pour les sections suivantes :

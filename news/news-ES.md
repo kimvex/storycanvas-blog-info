@@ -1,3 +1,106 @@
+# 🎉 ¡Bienvenidos a la Nueva Era de StoryCanvas! 🎉
+
+En **StoryCanvas**, nuestra misión es darte las herramientas para que tu única preocupación sea crear. Hoy damos un salto gigante con un **rediseño total de la interfaz**, pensado para que tu flujo de trabajo sea más limpio, rápido y, sobre todo, inspirador. Hemos optimizado cada rincón de la plataforma para que tu creatividad no tenga límites.
+
+---
+
+### ✍️ Concentración Total: Nuevo Editor y Modo Pantalla Completa
+Escribir requiere foco absoluto. Hemos lanzado un **nuevo editor de texto** optimizado específicamente para la narrativa, junto con un **modo pantalla completa** que elimina cualquier distracción visual, permitiéndote sumergirte por completo en el universo de tu historia.
+| | |
+|-----------|-----------|
+| ![Editor](https://statics.storycanvas.app/news-2026-02-03/bar-tools_1_11zon.webp) | ![Editor](https://statics.storycanvas.app/news-2026-02-03/full-page_8_11zon.webp) |
+
+---
+
+### 🤖 Tu Nuevo Aliado: El Asistente de Escritura con IA
+¿Te has quedado atascado en una escena o tienes dudas sobre la coherencia de tu trama? Presentamos el **Asistente StoryCanvas**, una IA integrada que conoce los detalles de tu libro y te ayuda con ideas, consejos y dudas técnicas. ¡Es como tener un co-escritor disponible 24/7!
+
+> **Seguridad de tu obra:** Sabemos lo importante que es tu propiedad intelectual. Consulta nuestras [Políticas de Privacidad](https://storycanvas.app/privacity) para saber cómo protegemos tus datos y el uso ético de la IA con tu contenido.
+
+*Nota: Esta función está disponible en nuestros planes premium.* [Ver en la Tienda 🛒](https://storycanvas.app/shop)
+
+![Asistente](https://statics.storycanvas.app/news-2026-02-03/ia-assitant_10_11zon.webp)
+
+---
+
+### 📖 El Poder de la Comunidad: Lectores Beta
+¡La retroalimentación es clave! Ahora puedes invitar a **Lectores Beta** mediante un link y un código exclusivo. 
+- **Control total:** Tú eliges qué capítulos pueden leer y cuáles permanecen en secreto.
+- **Feedback directo:** Los lectores comentan cada capítulo y tú gestionas sus sugerencias desde tu panel central.
+- **Segmentación:** La cantidad de lectores permitidos varía según tu plan contratado. [Consulta los límites aquí 🏬](http://storycanvas.app/shop)
+
+| | |
+|-----------|-----------|
+|![alt text](https://statics.storycanvas.app/news-2026-02-03/beta-readers_2_11zon.webp)|![alt text](https://statics.storycanvas.app/news-2026-02-03/comment-beta_3_11zon.webp)|
+|![alt text](https://statics.storycanvas.app/news-2026-02-03/home-beta_9_11zon.webp)|![alt text](https://statics.storycanvas.app/news-2026-02-03/page-comment-beta_11_11zon.webp)|
+---
+
+### 🌐 Tu Libro, Tu Marca: Páginas Web y Constructor de Sitios
+Ahora cada libro puede tener su propia presencia profesional en la web. Con nuestra nueva herramienta de **Páginas para Libros**, podrás:
+- Disfrutar de un **subdominio propio** (ej. milibro.storycanvas.page).
+- Usar nuestro **Constructor de Sitios** con plantillas enfocadas en libros para crear tu landing page en minutos.
+- La variedad y cantidad de plantillas disponibles dependerá de tu plan.
+
+| | |
+|-----------|-----------|
+|![alt text](https://statics.storycanvas.app/news-2026-02-03/templates-pages_15_11zon.webp)|![alt text](https://statics.storycanvas.app/news-2026-02-03/editor-page_7_11zon.webp)|
+
+![alt text](https://statics.storycanvas.app/news-2026-02-03/subdomain-management_12_11zon.webp)
+
+---
+
+### 📝 Resúmenes Inteligentes con IA
+¿Necesitas refrescar la memoria sobre un arco narrativo o capítulo anterior? Nuestra nueva herramienta de **Resúmenes con IA** sintetiza tus textos en puntos clave de forma clara y sencilla.
+- **Flexibilidad:** Cuentas con resúmenes gratuitos mensuales, y la cantidad aumenta según el plan que elijas. [Ver detalles de planes 📈](https://storycanvas.app/shop)
+
+| | |
+|-----------|-----------|
+|![alt text](https://statics.storycanvas.app/news-2026-02-03/summary-1.webp)|![alt text](https://statics.storycanvas.app/news-2026-02-03/sumary-2.webp)|
+
+---
+
+### 🎨 Arte y Corrección Potenciada
+- **Rediseño de Imágenes:** Hemos renovado la sección de arte. Ahora incluye un **historial de generación** para recuperar tus creaciones pasadas y un **nuevo modelo de alta calidad** para usuarios de pago.
+- **Corrector de Textos Pro:** Actualizamos nuestro modelo de corrección. Ahora es más potente, detecta mejor el contexto narrativo y ofrece sugerencias precisas para que tu prosa sea impecable.
+
+---
+
+### 🎯 Metas de Escritura y Dashboard
+¡Mantén el compromiso contigo mismo! Configura **Metas de Escritura** personalizadas en el dashboard de cada libro. Registra tus avances diarios y alcanza tus objetivos de palabras de forma organizada.
+
+![alt text](https://statics.storycanvas.app/news-2026-02-03/dashboard_4_11zon.webp)
+
+---
+
+### 💬 Centro de Notificaciones y Soporte
+Queremos escucharte. Estrenamos un **Centro de Notificaciones** para que estés al día con tu actividad y un **Chat de Soporte** directo para resolver cualquier duda técnica con el equipo de StoryCanvas al instante.
+---
+
+### 💎 Nuevos Planes StoryCanvas
+Para dar soporte a estas potentes tecnologías, hemos actualizado nuestra oferta de suscripciones. Desbloquea herramientas de IA avanzada, mayor cantidad de lectores beta y plantillas exclusivas eligiendo el plan que mejor se adapte a tu carrera literaria.
+👉 [Explorar la Tienda y Planes](https://storycanvas.app/shop)
+
+---
+
+### ⚖️ Actualizaciones Importantes
+Hemos actualizado nuestros documentos legales para reflejar las nuevas funcionalidades y proteger aún mejor tu privacidad:
+- [Términos y Condiciones](https://storycanvas.app/terms-and-conditions)
+- [Política de Privacidad](https://storycanvas.app/privacity)
+
+---
+
+Estamos profundamente emocionados por ver cómo utilizas estas herramientas para dar vida a historias increíbles. Gracias por confiar en StoryCanvas para resguardar y potenciar tu talento.
+
+**¡Feliz escritura!**
+
+Con cariño,  
+**El Equipo de StoryCanvas** ❤️📚
+
+
+----
+
+
+
 # 🆕 Actualización: ¡Fichas descargables en PDF!
 
 Hemos lanzado una nueva funcionalidad que permite **descargar fichas en formato PDF** de las siguientes secciones:

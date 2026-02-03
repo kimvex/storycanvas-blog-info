@@ -1,3 +1,106 @@
+# 🎉 Benvenuti nella Nuova Era di StoryCanvas! 🎉
+
+In **StoryCanvas**, la nostra missione è darti gli strumenti affinché la tua unica preoccupazione sia creare. Oggi facciamo un salto da gigante con un **restyling totale dell'interfaccia**, pensato per rendere il tuo flusso di lavoro più pulito, veloce e, soprattutto, stimolante. Abbiamo ottimizzato ogni angolo della piattaforma affinché la tua creatività non abbia limiti.
+
+---
+
+### ✍️ Concentrazione Totale: Nuovo Editor e Modalità Schermo Intero
+Scrivere richiede un focus assoluto. Abbiamo lanciato un **nuovo editor di testo** ottimizzato specificamente per la narrativa, insieme a una **modalità a schermo intero** che elimina ogni distrazione visiva, permettendoti di immergerti completamente nell'universo della tua storia.
+
+| | |
+|-----------|-----------|
+| ![Editor](https://statics.storycanvas.app/news-2026-02-03/bar-tools_1_11zon.webp) | ![Editor](https://statics.storycanvas.app/news-2026-02-03/full-page_8_11zon.webp) |
+
+---
+
+### 🤖 Il Tuo Nuovo Alleato: L'Assistente di Scrittura con IA
+Ti sei bloccato in una scena o hai dubbi sulla coerenza della tua trama? Ti presentiamo l'**Assistente StoryCanvas**, un'IA integrata che conosce i dettagli del tuo libro e ti aiuta con idee, consigli e dubbi tecnici. È come avere un co-scrittore disponibile 24/7!
+
+> **Sicurezza della tua opera:** Sappiamo quanto sia importante la tua proprietà intellettuale. Consulta la nostra [Informativa sulla Privacy](https://storycanvas.app/privacity) per sapere come proteggiamo i tuoi dati e l'uso etico dell'IA con i tuoi contenuti.
+
+*Nota: Questa funzione è disponibile nei nostri piani premium.* [Vedi nel Negozio 🛒](https://storycanvas.app/shop)
+
+![Assistente](https://statics.storycanvas.app/news-2026-02-03/ia-assitant_10_11zon.webp)
+
+---
+
+### 📖 Il Potere della Comunità: Beta Reader
+Il feedback è la chiave! Ora puoi invitare **Beta Reader** tramite un link e un codice esclusivo. 
+- **Controllo totale:** Scegli tu quali capitoli possono leggere e quali rimangono segreti.
+- **Feedback diretto:** I lettori commentano ogni capitolo e tu gestisci i loro suggerimenti dal tuo pannello centrale.
+- **Segmentazione:** Il numero di lettori consentiti varia in base al tuo piano. [Consulta i limiti qui 🏬](http://storycanvas.app/shop)
+
+| | |
+|-----------|-----------|
+|![alt text](https://statics.storycanvas.app/news-2026-02-03/beta-readers_2_11zon.webp)|![alt text](https://statics.storycanvas.app/news-2026-02-03/comment-beta_3_11zon.webp)|
+|![alt text](https://statics.storycanvas.app/news-2026-02-03/home-beta_9_11zon.webp)|![alt text](https://statics.storycanvas.app/news-2026-02-03/page-comment-beta_11_11zon.webp)|
+
+---
+
+### 🌐 Il Tuo Libro, Il Tuo Brand: Pagine Web e Site Builder
+Ora ogni libro può avere la sua presenza professionale sul web. Con il nostro nuovo strumento **Pagine per Libri**, potrai:
+- Avere un **sottodominio personalizzato** (es. ilmiolibro.storycanvas.page).
+- Usare il nostro **Site Builder** con modelli focalizzati sui libri per creare la tua landing page in pochi minuti.
+- La varietà e il numero di modelli disponibili dipenderanno dal tuo piano.
+
+| | |
+|-----------|-----------|
+|![alt text](https://statics.storycanvas.app/news-2026-02-03/templates-pages_15_11zon.webp)|![alt text](https://statics.storycanvas.app/news-2026-02-03/editor-page_7_11zon.webp)|
+
+![alt text](https://statics.storycanvas.app/news-2026-02-03/subdomain-management_12_11zon.webp)
+
+---
+
+### 📝 Riassunti Intelligenti con IA
+Hai bisogno di rinfrescare la memoria su un arco narrativo o su un capitolo precedente? Il nostro nuovo strumento di **Riassunti con IA** sintetizza i tuoi testi in punti chiave in modo chiaro e semplice.
+- **Flessibilità:** Hai a disposizione riassunti gratuiti mensili, e la quantità aumenta in base al piano scelto. [Vedi dettagli dei piani 📈](https://storycanvas.app/shop)
+
+| | |
+|-----------|-----------|
+|![alt text](https://statics.storycanvas.app/news-2026-02-03/summary-1.webp)| ![alt text](https://statics.storycanvas.app/news-2026-02-03/sumary-2.webp)|
+
+---
+
+### 🎨 Arte e Correzione Potenziata
+- **Restyling Immagini:** Abbiamo rinnovato la sezione arte. Ora include una **cronologia delle generazioni** per recuperare le tue creazioni passate e un **nuovo modello ad alta qualità** per gli utenti a pagamento.
+- **Correttore di Testi Pro:** Abbiamo aggiornato il nostro modello di correzione. Ora è più potente, rileva meglio il contesto narrativo e offre suggerimenti precisi per rendere la tua prosa impeccabile.
+
+---
+
+### 🎯 Obiettivi di Scrittura e Dashboard
+Mantieni l'impegno con te stesso! Configura **Obiettivi di Scrittura** personalizzati nella dashboard di ogni libro. Registra i tuoi progressi quotidiani e raggiungi i tuoi traguardi di parole in modo organizzato.
+
+![alt text](https://statics.storycanvas.app/news-2026-02-03/dashboard_4_11zon.webp)
+
+---
+
+### 💬 Centro Notifiche e Supporto
+Vogliamo ascoltarti. Inauguriamo un **Centro Notifiche** per tenerti aggiornato sulle tue attività e una **Chat di Supporto** diretta per risolvere istantaneamente qualsiasi dubbio tecnico con il team di StoryCanvas.
+
+---
+
+### 💎 Nuovi Piani StoryCanvas
+Per supportare queste potenti tecnologie, abbiamo aggiornato la nostra offerta di abbonamenti. Sblocca strumenti di IA avanzata, un maggior numero di beta reader e modelli esclusivi scegliendo il piano che meglio si adatta alla tua carriera letteraria.
+👉 [Esplora il Negozio e i Piani](https://storycanvas.app/shop)
+
+---
+
+### ⚖️ Aggiornamenti Importanti
+Abbiamo aggiornato i nostri documenti legali per riflettere le nuove funzionalità e proteggere ancora meglio la tua privacy:
+- [Termini e Condizioni](https://storycanvas.app/terms-and-conditions)
+- [Informativa sulla Privacy](https://storycanvas.app/privacity)
+
+---
+
+Siamo profondamente entusiasti di vedere come utilizzerai questi strumenti per dare vita a storie incredibili. Grazie per la fiducia in StoryCanvas per proteggere e potenziare il tuo talento.
+
+**Buona scrittura!**
+
+Con affetto,  
+**Il Team di StoryCanvas** ❤️📚
+
+---
+
 # 🆕 Aggiornamento: Schede scaricabili in PDF!
 
 Abbiamo rilasciato una nuova funzione che ti permette di **scaricare schede in formato PDF** per le seguenti sezioni:

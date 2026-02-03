@@ -1,3 +1,106 @@
+# 🎉 Welcome to the New Era of StoryCanvas! 🎉
+
+At **StoryCanvas**, our mission is to give you the tools so that your only concern is creating. Today, we are taking a giant leap forward with a **total interface redesign**, designed to make your workflow cleaner, faster, and, above all, more inspiring. We have optimized every corner of the platform so that your creativity knows no bounds.
+
+---
+
+### ✍️ Total Focus: New Editor and Full-Screen Mode
+Writing requires absolute focus. We have launched a **new text editor** specifically optimized for storytelling, along with a **full-screen mode** that eliminates any visual distractions, allowing you to fully immerse yourself in the universe of your story.
+
+| | |
+|-----------|-----------|
+| ![Editor](https://statics.storycanvas.app/news-2026-02-03/bar-tools_1_11zon.webp) | ![Editor](https://statics.storycanvas.app/news-2026-02-03/full-page_8_11zon.webp) |
+
+---
+
+### 🤖 Your New Ally: The AI Writing Assistant
+Stuck in a scene or having doubts about your plot's consistency? Introducing the **StoryCanvas Assistant**, an integrated AI that knows the details of your book and helps you with ideas, advice, and technical questions. It’s like having a co-writer available 24/7!
+
+> **Security of your work:** We know how important your intellectual property is. Check our [Privacy Policy](https://storycanvas.app/privacity) to learn how we protect your data and the ethical use of AI with your content.
+
+*Note: This feature is available in our premium plans.* [View in Shop 🛒](https://storycanvas.app/shop)
+
+![Assistant](https://statics.storycanvas.app/news-2026-02-03/ia-assitant_10_11zon.webp)
+
+---
+
+### 📖 The Power of Community: Beta Readers
+Feedback is key! You can now invite **Beta Readers** via a link and an exclusive code. 
+- **Total control:** You choose which chapters they can read and which ones remain secret.
+- **Direct feedback:** Readers comment on each chapter, and you manage their suggestions from your central dashboard.
+- **Segmentation:** The number of allowed readers varies based on your subscription plan. [Check the limits here 🏬](http://storycanvas.app/shop)
+
+| | |
+|-----------|-----------|
+|![alt text](https://statics.storycanvas.app/news-2026-02-03/beta-readers_2_11zon.webp)|![alt text](https://statics.storycanvas.app/news-2026-02-03/comment-beta_3_11zon.webp)|
+|![alt text](https://statics.storycanvas.app/news-2026-02-03/home-beta_9_11zon.webp)|![alt text](https://statics.storycanvas.app/news-2026-02-03/page-comment-beta_11_11zon.webp)|
+
+---
+
+### 🌐 Your Book, Your Brand: Web Pages and Site Builder
+Now every book can have its own professional presence on the web. With our new **Book Pages** tool, you can:
+- Enjoy your **own subdomain** (e.g., mybook.storycanvas.page).
+- Use our **Site Builder** with book-focused templates to create your landing page in minutes.
+- The variety and number of available templates depend on your plan.
+
+| | |
+|-----------|-----------|
+|![alt text](https://statics.storycanvas.app/news-2026-02-03/templates-pages_15_11zon.webp)|![alt text](https://statics.storycanvas.app/news-2026-02-03/editor-page_7_11zon.webp)|
+
+![alt text](https://statics.storycanvas.app/news-2026-02-03/subdomain-management_12_11zon.webp)
+
+---
+
+### 📝 Smart AI Summaries
+Need to refresh your memory on a narrative arc or a previous chapter? Our new **AI Summaries** tool synthesizes your texts into key points in a clear and simple way.
+- **Flexibility:** You get monthly free summaries, and the amount increases depending on the plan you choose. [See plan details 📈](https://storycanvas.app/shop)
+
+| | |
+|-----------|-----------|
+|![alt text](https://statics.storycanvas.app/news-2026-02-03/summary-1.webp)|![alt text](https://statics.storycanvas.app/news-2026-02-03/sumary-2.webp)|
+
+---
+
+### 🎨 Enhanced Art and Proofreading
+- **Image Redesign:** We have revamped the art section. It now includes a **generation history** to recover your past creations and a **new high-quality model** for paid users.
+- **Pro Text Corrector:** We updated our proofreading model. It is now more powerful, detects narrative context better, and offers precise suggestions to make your prose flawless.
+
+---
+
+### 🎯 Writing Goals and Dashboard
+Stay committed to yourself! Set up personalized **Writing Goals** on each book's dashboard. Track your daily progress and reach your word count targets in an organized way.
+
+![alt text](https://statics.storycanvas.app/news-2026-02-03/dashboard_4_11zon.webp)
+
+---
+
+### 💬 Notification Center and Support
+We want to hear from you. We’re debuting a **Notification Center** to keep you up to date with your activity and a direct **Support Chat** to resolve any technical questions with the StoryCanvas team instantly.
+
+---
+
+### 💎 New StoryCanvas Plans
+To support these powerful technologies, we have updated our subscription offers. Unlock advanced AI tools, more beta readers, and exclusive templates by choosing the plan that best fits your literary career.
+👉 [Explore the Shop and Plans](https://storycanvas.app/shop)
+
+---
+
+### ⚖️ Important Updates
+We have updated our legal documents to reflect the new features and better protect your privacy:
+- [Terms and Conditions](https://storycanvas.app/terms-and-conditions)
+- [Privacy Policy](https://storycanvas.app/privacity)
+
+---
+
+We are deeply excited to see how you use these tools to bring incredible stories to life. Thank you for trusting StoryCanvas to safeguard and empower your talent.
+
+**Happy writing!**
+
+With love,  
+**The StoryCanvas Team** ❤️📚
+
+
+---
 # 🆕 Update: Downloadable PDF Sheets!
 
 We’ve launched a new feature that lets you **download sheets in PDF format** from the following sections:

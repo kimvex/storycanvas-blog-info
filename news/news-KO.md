@@ -1,3 +1,105 @@
+# 🎉 StoryCanvas의 새로운 시대가 열렸습니다! 🎉
+
+**StoryCanvas**의 미션은 작가님이 오직 창작에만 전념할 수 있도록 돕는 도구를 제공하는 것입니다. 오늘, 저희는 플랫폼 역사상 가장 큰 변화인 **인터페이스 전면 리뉴얼**을 단행했습니다. 더 깔끔하고, 빠르며, 무엇보다 영감을 자극하는 디자인으로 재탄생했습니다. 이제 작가님의 창의성에는 한계가 없습니다.
+
+---
+
+### ✍️ 최고의 집중력: 새로운 에디터 & 전체 화면 모드
+글쓰기에는 절대적인 집중이 필요합니다. 서술에 최적화된 **새로운 텍스트 에디터**와 모든 시각적 방해 요소를 제거하는 **전체 화면 모드**를 출시했습니다. 이제 작가님의 이야기 속 세계에 온전히 몰입해 보세요.
+
+| | |
+|-----------|-----------|
+| ![Editor](https://statics.storycanvas.app/news-2026-02-03/bar-tools_1_11zon.webp) | ![Editor](https://statics.storycanvas.app/news-2026-02-03/full-page_8_11zon.webp) |
+
+---
+
+### 🤖 당신의 새로운 동료: AI 집필 어시스턴트
+장면 전개에 막혔거나 플롯의 개연성이 걱정되시나요? 작가님의 작품 내용을 이해하고 아이디어, 조언, 기술적인 질문에 답해주는 **StoryCanvas 어시스턴트**를 소개합니다. 24시간 언제든 상담할 수 있는 공동 집필자가 곁에 있는 것과 같습니다!
+
+> **작품의 안전성:** 저희는 작가님의 지적 재산을 소중히 여깁니다. 데이터 보호 방식과 AI의 윤리적 사용에 대해서는 [개인정보 처리방침](https://storycanvas.app/privacity)을 확인해 주세요.
+
+*※ 본 기능은 프리미엄 플랜에서 이용 가능합니다.* [상점에서 플랜 보기 🛒](https://storycanvas.app/shop)
+
+![Assistant](https://statics.storycanvas.app/news-2026-02-03/ia-assitant_10_11zon.webp)
+
+---
+
+### 📖 커뮤니티의 힘: 베타 리더
+피드백은 명작을 만드는 열쇠입니다! 이제 전용 링크와 코드를 통해 **베ータ 리더**를 초대할 수 있습니다.
+- **완전한 제어:** 어떤 장을 공개하고 어떤 장을 비밀로 유지할지 직접 선택하세요.
+- **직접적인 피드백:** 독자는 장별로 댓글을 남길 수 있으며, 작가님은 중앙 대시보드에서 이를 관리할 수 있습니다.
+- **플랜별 차등:** 초대 가능한 독자 수는 가입하신 플랜에 따라 다릅니다. [여기서 한도 확인하기 🏬](http://storycanvas.app/shop)
+
+| | |
+|-----------|-----------|
+|![alt text](https://statics.storycanvas.app/news-2026-02-03/beta-readers_2_11zon.webp)|![alt text](https://statics.storycanvas.app/news-2026-02-03/comment-beta_3_11zon.webp)|
+|![alt text](https://statics.storycanvas.app/news-2026-02-03/home-beta_9_11zon.webp)|![alt text](https://statics.storycanvas.app/news-2026-02-03/page-comment-beta_11_11zon.webp)|
+
+---
+
+### 🌐 당신의 책, 당신의 브랜드: 웹 페이지 & 사이트 빌더
+이제 모든 책이 웹상에서 전문적인 페이지를 가질 수 있습니다. 새로운 **도서 페이지** 도구로 다음이 가능합니다:
+- **전용 서브도메인** 사용 (예: mybook.storycanvas.page).
+- 도서에 특화된 템플릿을 갖춘 **사이트 빌더**로 몇 분 만에 랜딩 페이지 제작.
+- 제공되는 템플릿의 종류와 수는 플랜에 따라 다릅니다.
+
+| | |
+|-----------|-----------|
+|![alt text](https://statics.storycanvas.app/news-2026-02-03/templates-pages_15_11zon.webp)|![alt text](https://statics.storycanvas.app/news-2026-02-03/editor-page_7_11zon.webp)|
+
+![alt text](https://statics.storycanvas.app/news-2026-02-03/subdomain-management_12_11zon.webp)
+
+---
+
+### 📝 스마트 AI 요약
+"이전 장에서 무슨 일이 있었지?" 기억을 되살려야 할 때, 새로운 **AI 요약 도구**를 사용해 보세요. 텍스트를 핵심 포인트로 간단하고 명확하게 요약해 드립니다.
+- **유연한 이용:** 매월 무료 요약 횟수가 제공되며, 플랜에 따라 이용 가능 횟수가 늘어납니다. [플랜 상세 보기 📈](https://storycanvas.app/shop)
+
+| | |
+|-----------|-----------|
+|![alt text](https://statics.storycanvas.app/news-2026-02-03/summary-1.webp)| ![alt text](https://statics.storycanvas.app/news-2026-02-03/sumary-2.webp)|
+
+---
+
+### 🎨 더욱 강력해진 아트 생성 및 교정
+- **이미지 생성 리뉴얼:** 아트 섹션을 새롭게 단장했습니다. 이제 생성 기록을 확인할 수 있으며, 유료 사용자를 위한 **새로운 고품질 모델**이 추가되었습니다.
+- **프로급 문장 교정기:** 교정 모델을 업데이트했습니다. 이제 문맥을 더 정확하게 파악하고 작가님의 문체를 살리면서도 완벽한 문장으로 다듬어 드립니다.
+
+---
+
+### 🎯 집필 목표 & 대시보드
+자신과의 약속을 지키세요! 각 도서의 대시보드에서 개인별 **집필 목표**를 설정할 수 있습니다. 매일의 진행 상황을 기록하고 목표 단어 수 도달을 체계적으로 관리해 보세요.
+
+![alt text](https://statics.storycanvas.app/news-2026-02-03/dashboard_4_11zon.webp)
+
+---
+
+### 💬 알림 센터 및 지원
+작가님의 목소리에 귀를 기울입니다. 활동 소식을 놓치지 않게 도와줄 **알림 센터**와 StoryCanvas 팀에 즉시 문의할 수 있는 **라이브 지원 채팅**을 개설했습니다.
+
+---
+
+### 💎 새로운 StoryCanvas 플랜
+이러한 강력한 신기술을 지원하기 위해 구독 플랜을 업데이트했습니다. 작가님의 집필 커리어에 가장 적합한 플랜을 선택하고 고급 AI 도구와 베타 리더 기능을 잠금 해제하세요.
+👉 [상점 및 플랜 둘러보기](https://storycanvas.app/shop)
+
+---
+
+### ⚖️ 중요 업데이트 사항
+신규 기능 추가에 따라 개인정보 보호와 투명성을 높이기 위해 다음 문서를 업데이트했습니다:
+- [이용약관](https://storycanvas.app/terms-and-conditions)
+- [개인정보 처리방침](https://storycanvas.app/privacity)
+
+---
+
+이 도구들이 작가님의 멋진 이야기에 생명력을 불어넣는 데 도움이 되기를 진심으로 바랍니다. 작가님의 재능을 StoryCanvas에 믿고 맡겨주셔서 감사합니다.
+
+**즐거운 집필 되세요!**
+
+마음을 담아,  
+**StoryCanvas 팀 드림** ❤️📚
+
+---
 # 🆕 업데이트: PDF 양식 다운로드 기능!
 
 이제 다음 섹션에서 **PDF 형식으로 양식을 다운로드**할 수 있습니다:
