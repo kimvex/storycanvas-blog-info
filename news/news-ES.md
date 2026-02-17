@@ -14,11 +14,9 @@ Hicimos una mejora en la herramienta de corrección con IA: **ahora, al reemplaz
 Ya puedes probar el **detector de errores ortográficos** dentro del editor (modo **Beta**).  
 Si notas algún detalle, ¡cuéntanos para seguir mejorándolo! 🙌
 
-| | |
-|-----------|-----------|
-|![Editor](https://statics.storycanvas.app/news-2026-02-17/deteccion-de-ortografia.png)|![Editor](https://statics.storycanvas.app/news-2026-02-17/muestra-1-deteccion-ortografia.png)|
+![Editor](https://statics.storycanvas.app/news-2026-02-17/deteccion-de-ortografia.png)
 
-![Editor](https://statics.storycanvas.app/news-2026-02-17/muestra-2-deteccion-ortografia.png)
+![Editor](https://statics.storycanvas.app/news-2026-02-17/muestra-1-deteccion-ortografia.png)
 
 ---
 
