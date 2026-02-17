@@ -1,3 +1,33 @@
+## ✅ Actualización: Mantener formato al corregir con IA
+
+Hicimos una mejora en la herramienta de corrección con IA: **ahora, al reemplazar tu texto por la versión corregida, se mantiene el formato** (negritas, cursivas, saltos de línea, etc.). ✨
+| | |
+|-----------|-----------|
+|![Editor](https://statics.storycanvas.app/news-2026-02-17/corrector-ortografico-corregido.png)|![Editor](https://statics.storycanvas.app/news-2026-02-17/corrector-ortografico.png)|
+
+![Editor](https://statics.storycanvas.app/news-2026-02-17/corrector-ortografico-formato.png)
+
+---
+
+## 🧪 Nuevo (BETA): Detector de errores ortográficos
+
+Ya puedes probar el **detector de errores ortográficos** dentro del editor (modo **Beta**).  
+Si notas algún detalle, ¡cuéntanos para seguir mejorándolo! 🙌
+
+| | |
+|-----------|-----------|
+|![Editor](https://statics.storycanvas.app/news-2026-02-17/deteccion-de-ortografia.png)|![Editor](https://statics.storycanvas.app/news-2026-02-17/muestra-1-deteccion-ortografia.png)|
+
+![Editor](https://statics.storycanvas.app/news-2026-02-17/muestra-2-deteccion-ortografia.png)
+
+---
+
+## 📺 Video guía (Sección Libros)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xAF9SCuJVlY?si=DwQsBGgEhG7oGTnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 # 🎉 ¡Bienvenidos a la Nueva Era de StoryCanvas! 🎉
 
 En **StoryCanvas**, nuestra misión es darte las herramientas para que tu única preocupación sea crear. Hoy damos un salto gigante con un **rediseño total de la interfaz**, pensado para que tu flujo de trabajo sea más limpio, rápido y, sobre todo, inspirador. Hemos optimizado cada rincón de la plataforma para que tu creatividad no tenga límites.
