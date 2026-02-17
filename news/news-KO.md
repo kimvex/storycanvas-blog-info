@@ -1,3 +1,20 @@
+## ✅ 업데이트: AI 교정 텍스트로 교체해도 서식 유지
+
+AI 교정 기능을 개선했습니다. **교정된 텍스트로 교체할 때 서식(굵게, 기울임, 줄바꿈 등)이 그대로 유지됩니다**. ✨
+| | |
+|-----------|-----------|
+|![Editor](https://statics.storycanvas.app/news-2026-02-17/corrector-ortografico-corregido.png)|![Editor](https://statics.storycanvas.app/news-2026-02-17/corrector-ortografico.png)|
+
+![Editor](https://statics.storycanvas.app/news-2026-02-17/corrector-ortografico-formato.png)
+
+---
+
+## 📺 가이드 영상(도서 섹션)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xAF9SCuJVlY?si=DwQsBGgEhG7oGTnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 # 🎉 StoryCanvas의 새로운 시대가 열렸습니다! 🎉
 
 **StoryCanvas**의 미션은 작가님이 오직 창작에만 전념할 수 있도록 돕는 도구를 제공하는 것입니다. 오늘, 저희는 플랫폼 역사상 가장 큰 변화인 **인터페이스 전면 리뉴얼**을 단행했습니다. 더 깔끔하고, 빠르며, 무엇보다 영감을 자극하는 디자인으로 재탄생했습니다. 이제 작가님의 창의성에는 한계가 없습니다.

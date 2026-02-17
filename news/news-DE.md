@@ -1,3 +1,31 @@
+## ✅ Update: Formatierung bleibt beim Ersetzen durch KI-Korrektur erhalten
+
+Wir haben die KI-Korrektur verbessert: **wenn du deinen Text durch die korrigierte Version ersetzt, bleibt die Formatierung jetzt erhalten** (fett, kursiv, Zeilenumbrüche usw.). ✨
+| | |
+|-----------|-----------|
+|![Editor](https://statics.storycanvas.app/news-2026-02-17/corrector-ortografico-corregido.png)|![Editor](https://statics.storycanvas.app/news-2026-02-17/corrector-ortografico.png)|
+
+![Editor](https://statics.storycanvas.app/news-2026-02-17/corrector-ortografico-formato.png)
+
+---
+
+## 🧪 Neu (BETA): Rechtschreib- & Tippfehler-Check
+
+Du kannst jetzt den **Rechtschreib-/Tippfehler-Check** im Editor testen (**Beta**).  
+Wenn dir etwas auffällt, sag uns bitte Bescheid, damit wir es weiter verbessern können! 🙌
+
+![Editor](https://statics.storycanvas.app/news-2026-02-17/deteccion-de-ortografia.png)
+
+![Editor](https://statics.storycanvas.app/news-2026-02-17/muestra-1-deteccion-ortografia.png)
+
+---
+
+## 📺 Video-Guide (Bücher-Bereich)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xAF9SCuJVlY?si=DwQsBGgEhG7oGTnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 # 🎉 Willkommen in der neuen Ära von StoryCanvas! 🎉
 
 Unsere Mission bei **StoryCanvas** ist es, dir die Werkzeuge an die Hand zu geben, damit deine einzige Sorge das Erschaffen ist. Heute machen wir einen riesigen Sprung nach vorne mit einem **vollständigen Redesign der Benutzeroberfläche**, das darauf ausgelegt ist, deinen Workflow sauberer, schneller und vor allem inspirierender zu gestalten. Wir haben jeden Winkel der Plattform optimiert, damit deiner Kreativität keine Grenzen gesetzt sind.

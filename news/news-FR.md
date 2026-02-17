@@ -1,3 +1,31 @@
+## ✅ Mise à jour : conserver la mise en forme après correction IA
+
+Nous avons amélioré la correction IA : **lorsque vous remplacez votre texte par la version corrigée, la mise en forme est désormais conservée** (gras, italique, retours à la ligne, etc.). ✨
+| | |
+|-----------|-----------|
+|![Editor](https://statics.storycanvas.app/news-2026-02-17/corrector-ortografico-corregido.png)|![Editor](https://statics.storycanvas.app/news-2026-02-17/corrector-ortografico.png)|
+
+![Editor](https://statics.storycanvas.app/news-2026-02-17/corrector-ortografico-formato.png)
+
+---
+
+## 🧪 Nouveau (BÊTA) : détecteur de fautes d’orthographe
+
+Vous pouvez désormais tester le **détecteur de fautes d’orthographe** dans l’éditeur (**Bêta**).  
+Si vous remarquez quelque chose, dites-le nous pour continuer à l’améliorer ! 🙌
+
+![Editor](https://statics.storycanvas.app/news-2026-02-17/deteccion-de-ortografia.png)
+
+![Editor](https://statics.storycanvas.app/news-2026-02-17/muestra-1-deteccion-ortografia.png)
+
+---
+
+## 📺 Vidéo guide (Section Livres)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xAF9SCuJVlY?si=DwQsBGgEhG7oGTnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 # 🎉 Bienvenue dans la nouvelle ère de StoryCanvas ! 🎉
 
 Chez **StoryCanvas**, nuestra misión es darte las herramientas para que tu única preocupación sea crear. Hoy damos un salto gigante con un **rediseño total de la interfaz**, pensado para que tu flujo de trabajo sea más limpio, rápido y, sobre todo, inspirador. Hemos optimizado cada rincón de la plataforma para que tu creatividad no tenga límites.

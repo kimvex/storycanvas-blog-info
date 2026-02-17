@@ -1,3 +1,31 @@
+## ✅ Update: Keep formatting when replacing AI-corrected text
+
+We improved the AI correction tool: **when you replace your text with the corrected version, formatting is now preserved** (bold, italics, line breaks, etc.). ✨
+| | |
+|-----------|-----------|
+|![Editor](https://statics.storycanvas.app/news-2026-02-17/corrector-ortografico-corregido.png)|![Editor](https://statics.storycanvas.app/news-2026-02-17/corrector-ortografico.png)|
+
+![Editor](https://statics.storycanvas.app/news-2026-02-17/corrector-ortografico-formato.png)
+
+---
+
+## 🧪 New (BETA): Spell & typo checker
+
+You can now try the **spell/typo checker** inside the editor (**Beta**).  
+If you notice anything, please let us know so we can keep improving it! 🙌
+
+![Editor](https://statics.storycanvas.app/news-2026-02-17/deteccion-de-ortografia.png)
+
+![Editor](https://statics.storycanvas.app/news-2026-02-17/muestra-1-deteccion-ortografia.png)
+
+---
+
+## 📺 Guide video (Books section)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xAF9SCuJVlY?si=DwQsBGgEhG7oGTnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 # 🎉 Welcome to the New Era of StoryCanvas! 🎉
 
 At **StoryCanvas**, our mission is to give you the tools so that your only concern is creating. Today, we are taking a giant leap forward with a **total interface redesign**, designed to make your workflow cleaner, faster, and, above all, more inspiring. We have optimized every corner of the platform so that your creativity knows no bounds.

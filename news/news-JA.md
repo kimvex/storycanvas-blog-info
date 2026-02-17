@@ -1,3 +1,31 @@
+## ✅ 更新：AI校正で置き換えても書式を保持
+
+AI校正機能を改善しました。**校正後の文章に置き換える際、書式（太字・斜体・改行など）が保持されます**。✨
+| | |
+|-----------|-----------|
+|![Editor](https://statics.storycanvas.app/news-2026-02-17/corrector-ortografico-corregido.png)|![Editor](https://statics.storycanvas.app/news-2026-02-17/corrector-ortografico.png)|
+
+![Editor](https://statics.storycanvas.app/news-2026-02-17/corrector-ortografico-formato.png)
+
+---
+
+## 🧪 新機能（BETA）：スペルミス検出
+
+エディター内で **スペルミス検出機能** を試せます（**ベータ版**）。  
+気づいた点があれば、ぜひ教えてください！ 🙌
+
+![Editor](https://statics.storycanvas.app/news-2026-02-17/deteccion-de-ortografia.png)
+
+![Editor](https://statics.storycanvas.app/news-2026-02-17/muestra-1-deteccion-ortografia.png)
+
+---
+
+## 📺 動画ガイド（書籍セクション）
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xAF9SCuJVlY?si=DwQsBGgEhG7oGTnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 # 🎉 StoryCanvas 新時代の幕開けです！ 🎉
 
 **StoryCanvas** のミッションは、執筆以外のあらゆる悩みを取り除き、創作に専念できる環境を提供することです。本日、プラットフォーム史上最大のアップデートとなる**インターフェースの全面リニューアル**を実施しました。よりクリーンで、より速く、そして何よりもインスピレーションを刺激するデザインへと進化。あなたの創造性に限界はありません。
