@@ -1,3 +1,144 @@
+# 🚀 Nova atualização do StoryCanvas: mapas, opções de exportação e melhorias para o seu fluxo de escrita
+
+Continuamos trabalhando para tornar o StoryCanvas uma plataforma cada vez mais completa, flexível e confortável de usar.  
+Nesta atualização, adicionamos uma **nova ferramenta de criação de mapas**, **mais opções para exportar seus livros**, **novos templates para fichas de personagens** e várias melhorias importantes em ferramentas que muitos de vocês já utilizam todos os dias.
+
+---
+
+## 🗺️ Novo: Criador de Mapas
+
+Agora o StoryCanvas conta com uma nova ferramenta para **criar, editar e salvar mapas** diretamente dentro da plataforma.  
+Você poderá trabalhar com diferentes elementos visuais, organizar melhor suas ideias e construir cenários que acompanhem o desenvolvimento da sua história.
+
+Além disso, esta ferramenta inclui uma **biblioteca de mapas**, para que você possa salvar seus projetos e retomá-los quando quiser.
+
+| | |
+|-----------|-----------|
+| ![Mapa 1](https://statics.storycanvas.app/news-2026-04-16/creador-de-mapas.png) | ![Mapa 2](https://statics.storycanvas.app/news-2026-04-16/creador-de-maps-2.png) |
+
+![Biblioteca de mapas](https://statics.storycanvas.app/news-2026-04-16/creador-de-mapas-4.png)
+
+> *Nota:* Alguns recursos avançados desta ferramenta podem variar de acordo com o seu plano. [Consulte os planos aqui](https://storycanvas.app/shop)
+
+---
+
+## 📚 Novo: Mais formatos para exportar seus livros
+
+Ampliamos as opções de exportação para que você tenha mais liberdade na hora de compartilhar, fazer backup ou preparar sua obra para diferentes plataformas.
+
+Agora você pode exportar seu livro em novos formatos, como:
+
+- `DOCX`
+- `PDF`
+- `EPUB`
+- `TXT`
+- `Markdown`
+- `Kindle (HTML)`
+
+Também melhoramos as configurações de exportação para dar a você mais controle sobre o resultado final do seu livro.
+
+![Exportação 1](https://statics.storycanvas.app/news-2026-04-16/exportacion-de-libros.png)
+
+---
+
+## 🧍 Novos templates para fichas de personagens em PDF
+
+O download de fichas de personagens em PDF agora inclui **novos templates visuais**, pensados para que você possa escolher o estilo que melhor combine com sua história ou com a forma como apresenta seu material.
+
+Isso permitirá que você gere fichas mais atraentes, organizadas e personalizadas para consulta, apresentação ou trabalho editorial.
+
+![Template de personagem 1](https://statics.storycanvas.app/news-2026-04-16/pdf-personajes.png)
+
+> *Nota:* A quantidade de templates disponíveis pode variar de acordo com o seu plano. [Ver planos](https://storycanvas.app/shop)
+
+---
+
+## 🤖 Melhoria no assistente: melhor contexto e respostas mais precisas
+
+Melhoramos o funcionamento do **Assistente StoryCanvas** para que ele compreenda melhor o contexto do seu livro e possa fornecer respostas mais úteis.
+
+Com essas melhorias, o assistente consegue interpretar melhor as informações do seu projeto e responder com mais precisão sobre personagens, lugares, capítulos e outros elementos importantes da sua história.
+
+Isso se traduz em uma experiência mais fluida e em respostas mais alinhadas com o conteúdo real da sua obra.
+
+> *Nota:* O acesso ao assistente depende do plano contratado. [Consulte os planos aqui](https://storycanvas.app/shop)
+
+---
+
+## 📋 Quadros Kanban renovados, agora com melhor suporte para dispositivos móveis
+
+Realizamos uma importante refatoração na ferramenta de **Quadros Kanban** para oferecer uma experiência mais confortável, mais clara e melhor adaptada a diferentes tamanhos de tela.
+
+Agora a navegação entre colunas e cartões está mais fluida, e o uso em **dispositivos móveis** foi melhorado para que você possa organizar ideias, tarefas e processos do seu livro com mais conforto em qualquer lugar.
+
+![Kanban 1](https://statics.storycanvas.app/news-2026-04-16/kanban.png)
+
+---
+
+## 🧠 Mapas mentais renovados, também com melhor experiência no celular
+
+A ferramenta de **Mapas Mentais** também recebeu uma melhoria importante.  
+Refatoramos esta seção para torná-la mais confortável de usar, mais visual e melhor preparada para telas pequenas.
+
+Agora editar nós, mover elementos e trabalhar com o mapa mental está mais prático tanto no desktop quanto no celular.
+
+![Mapa mental 1](https://statics.storycanvas.app/news-2026-04-16/mapa-mental.png)
+
+---
+
+## 🎯 Melhoria nas metas de escrita
+
+Também melhoramos a seção de **Metas de escrita**, com uma visualização mais clara do seu progresso e uma melhor leitura da sua atividade ao longo do mês.
+
+O objetivo dessa mudança é ajudar você a entender melhor o seu avanço, manter a motivação e consultar suas estatísticas de uma forma mais confortável e útil.
+
+![Metas de escrita](https://statics.storycanvas.app/news-2026-04-16/meta-de-escritura.png)
+
+---
+
+## 🌍 Ajustes de tradução e correções visuais
+
+Além das principais novidades, realizamos vários ajustes para melhorar a experiência geral dentro da plataforma:
+
+- Melhorias em textos e traduções em diferentes seções
+- Correções visuais em várias interfaces
+- Ajustes de consistência para tornar a navegação e a leitura mais claras
+
+Essas melhorias ajudam o StoryCanvas a parecer mais refinado, estável e agradável de usar no dia a dia.
+
+---
+
+## 📄 Atualização importante dos Termos e Condições e da Política de Privacidade
+
+Com esta atualização, também renovamos nossos **Termos e Condições** e nossa **Política de Privacidade** para refletir com mais clareza como funcionam as novas ferramentas, quais recursos podem depender do plano contratado e como tratamos certos dados dentro da plataforma.
+
+Entre outras coisas, essas mudanças agora deixam mais claros:
+
+- O uso do **Criador de Mapas** e de seus recursos avançados
+- A exportação de livros em múltiplos formatos
+- O uso de **templates**, recursos visuais e ferramentas premium
+- As melhorias do **Assistente StoryCanvas** e o tratamento de contexto dentro da plataforma
+- A forma como são gerenciados dados relacionados a mapas, páginas públicas, cookies e solicitações de exclusão de conta
+
+Convidamos você a revisar ambos os documentos para conhecer essas mudanças com mais detalhes:
+
+- [Termos e Condições](https://storycanvas.app/terms-and-conditions)
+- [Política de Privacidade](https://storycanvas.app/privacity)
+
+Essas atualizações buscam tornar as informações mais claras, transparentes e alinhadas com as ferramentas que hoje fazem parte do StoryCanvas.
+
+---
+
+Continuamos construindo o StoryCanvas para que você tenha cada vez mais ferramentas e um espaço melhor para desenvolver suas histórias.  
+Obrigado por nos acompanhar e por compartilhar suas ideias, comentários e sugestões.
+
+**Feliz escrita!**  
+
+Com carinho,  
+**Equipe StoryCanvas**
+
+------
+
 ## ✅ Atualização: Manter formatação ao corrigir com IA
 
 Melhoramos a correção com IA: **agora, ao substituir seu texto pela versão corrigida, a formatação é mantida** (negrito, itálico, quebras de linha, etc.). ✨
@@ -241,98 +382,3 @@ Queremos que o StoryCanvas seja mais do que uma ferramenta poderosa para escreve
 Continuamos melhorando o StoryCanvas para torná-lo a melhor plataforma para escritores. Fique atento às próximas atualizações!  
 
 💬 **Nos conte sua opinião**. Seu feedback nos ajuda a continuar melhorando! 🚀  
-
-
-# 🌟 Grande Atualização do StoryCanvas 🌟
-
-Esta é a maior atualização da plataforma até o momento.
-Alteramos a interface para torná-la muito mais amigável. Agora você pode encontrar os ícones que o levarão diretamente à seção desejada. Também é possível entrar em contato com a equipe do StoryCanvas para solicitar ajuda ou enviar uma sugestão.
-
-### 📚 Livros
-
-A nova seção de livros apresenta os livros criados de forma mais clara, com contadores de informações sobre todos os livros.
-
-- **🌍 Edição de Livros**  
-  A interface da seção de livros foi reformulada. Agora você pode ver todas as opções de maneira mais organizada. A seção de download dos livros permite visualizar explicitamente os capítulos para realizar o download.
-  
-  A correção dos capítulos agora está em uma seção mais visível, facilitando o uso.
-
-  - **📑 Notas**  
-    Agora você pode editar notas sem precisar preencher um formulário, como acontecia ao criá-las.
-
-  - **👨‍🎨 Personagens**  
-    Agora é possível visualizar as informações de um personagem de forma mais clara e adicionar ou alterar sua foto. A ferramenta de geração de nomes está integrada diretamente na visualização.
-
-  - **🏔️ Lugares**  
-    A visualização dos lugares foi melhorada e as imagens adicionadas aos lugares agora podem ser vistas em formato maior.
-
-  - **🎄 Capas**  
-    A seção de capas tem uma interface mais organizada, onde você pode fazer modificações rapidamente. A ferramenta de geração de imagens com IA está agora mais visível para uso rápido.
-
-### 💡 Novas Funcionalidades Importantes para o Editor de Livros
-Três novas ferramentas foram adicionadas, que esperamos serem muito úteis na criação de seus livros:
-
-- **🛠️ Quadros**  
-  Crie quadros para organizar suas tarefas, acompanhar seus eventos e suas listas de afazeres, estruturando seu trabalho de maneira ótima.
-
-  ![alt text](https://raw.githubusercontent.com/kimvex/storycanvas-blog-info/refs/heads/main/imgs/Imagen%20board.webp.webp)
-
-- **🏰 Mapas Mentais**  
-  Esta nova funcionalidade permite estruturar seus livros criando organogramas para os personagens e muito mais. Aproveite ao máximo essa funcionalidade para organizar suas ideias.
-  
-  Você também pode baixar uma imagem do seu mapa mental e compartilhá-la com quem quiser.
-
-  ![alt text](https://raw.githubusercontent.com/kimvex/storycanvas-blog-info/refs/heads/main/imgs/Mapa%20mental.webp.webp)
-
-- **⏲️ Linhas do Tempo**
-  Mantenha uma ordem cronológica da sua história criando linhas do tempo. Crie quantas quiser e acompanhe cada evento importante para entender melhor o desenvolvimento da sua própria história.
-
-  ![alt text](https://raw.githubusercontent.com/kimvex/storycanvas-blog-info/refs/heads/main/imgs/timeline.webp.webp)
-
-### 🌟 Gerador de Imagens
-Esta seção agora permite que você escolha os estilos que deseja para a geração de suas imagens.
-
-### 🖼️ Editor de Imagens
-O editor de imagens foi totalmente redesenhado e agora é muito mais poderoso. Você pode adicionar filtros, cortar imagens, adicionar marcas d'água, baixar sua imagem em vários formatos e muito mais.
-
-### 📷 Gerador de Imagens – Novo Design
-O gerador de imagens recebeu um novo design.
-
-### 💬 Tradutor – Novo Design
-A seção do tradutor foi redesenhada para uma melhor experiência do usuário.
-
-### 🌐 Suporte a Várias Línguas
-StoryCanvas agora está disponível em 10 idiomas:
-
-- Inglês 🇺🇸
-- Francês 🇫🇷
-- Alemão 🇩🇪
-- Italiano 🇮🇹
-- Português 🇧🇷
-- Russo 🇷🇺
-- Chinês 🇨🇳
-- Coreano 🇰🇷
-- Japonês 🇯🇵
-- Tailandês 🇹🇭
-
-Esperamos que você aproveite todas essas incríveis mudanças que o StoryCanvas trouxe para você.
-
-Obrigado pelo seu apoio contínuo e uma ótima jornada criativa! 🌱📚
-
----
-# Nova Funcionalidade do WhatsApp e Atualizações Importantes
-
-Leve o StoryCanvas para o seu WhatsApp!
-
-Estamos empolgados em anunciar uma nova e emocionante maneira de interagir com o StoryCanvas diretamente pelo seu WhatsApp. Agora, você pode aproveitar funcionalidades como correção de textos com IA, geração de imagens com IA, download de seus livros e capítulos, e muito mais, tudo a partir do conforto do seu dispositivo móvel. Para começar, basta adicionar seu número de telefone nas configurações da sua conta StoryCanvas. Você receberá uma mensagem no WhatsApp com um código de verificação para ativar este serviço. Este passo é rápido, fácil e aumenta a flexibilidade com a qual você pode usar o StoryCanvas, permitindo que você aproveite nossas ferramentas onde quer que esteja.
-
-## Como Ativar Esta Funcionalidade:
-
-1. Vá para as configurações da sua conta no StoryCanvas.
-2. Insira seu número de telefone e salve as alterações.
-3. Você receberá um código de verificação via WhatsApp.
-4. Insira o código no StoryCanvas para ativar a funcionalidade.
-
-## Atualizações dos Termos e Condições e Política de Privacidade:
-
-Com esta nova funcionalidade, também atualizamos nossos Termos e Condições, bem como nossa Política de Privacidade, para refletir como seu número de telefone é utilizado e protegido. Encorajamos você a revisar esses documentos para entender como essas atualizações afetam o uso dos nossos serviços. Esta alteração já está disponível para todos os usuários e esperamos que você aproveite a conveniência e as novas possibilidades que ela traz. O uso contínuo da plataforma após essa atualização será considerado como aceitação dessas mudanças. Estamos empolgados para ver como essa nova funcionalidade melhora sua experiência com o StoryCanvas!
